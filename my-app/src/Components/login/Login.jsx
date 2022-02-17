@@ -32,8 +32,6 @@ class Login extends React.Component {
         email: profile.getEmail(),
         id: profile.getId(),
       };
-
-      console.log(profileData, 'profile', profile);
     } else this.props.signOut();
   };
 

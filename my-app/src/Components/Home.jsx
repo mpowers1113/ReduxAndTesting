@@ -223,7 +223,7 @@ export default function Home() {
             <div className="max-w-7xl mx-auto pb-12 px-4 sm:px-6 lg:px-8">
               <div className="bg-white rounded-lg shadow px-5 py-6 sm:px-6">
                 <div className="overflow-auto border-4 border-dashed border-gray-200 rounded-lg h-full">
-                  {togglePokemonView && <TutorialReactQuery />}
+                  <TutorialReactQuery />
                 </div>
               </div>
               {/* /End replace */}
