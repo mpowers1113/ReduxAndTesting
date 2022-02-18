@@ -1,12 +1,30 @@
 import React, { useState } from 'react';
-import { useQuery } from 'react-query';
+import { useQuery, useQueryClient } from 'react-query';
 import axios from 'axios';
 
+async function getSpecificPost(postId) {
+  console.log('prefetching on hover ', postId);
+  const res = await axios.get(
+    `https://jsonplaceholder.typicode.com/posts/${postId}`,
+  );
+  return res.data;
+}
+
 function Posts({ setPostId }) {
-  const postsQuery = useQuery('posts', async () => {
-    const res = await axios.get('https://jsonplaceholder.typicode.com/posts');
-    return res.data;
-  });
+  const queryClient = useQueryClient();
+
+  const postsQuery = useQuery(
+    'posts',
+    async () => {
+      console.log('fetching');
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+      const res = await axios.get('https://jsonplaceholder.typicode.com/posts');
+      return res.data;
+    },
+    {
+      staleTime: 50000,
+    },
+  );
 
   return (
     <div className="p-4">
@@ -18,7 +36,18 @@ function Posts({ setPostId }) {
           <ul className="p-4">
             {postsQuery.data.map((post) => {
               return (
-                <li className="p-1 list-disc " key={post.id}>
+                <li
+                  onMouseEnter={() =>
+                    queryClient.prefetchQuery(
+                      ['post', post.id],
+                      () => getSpecificPost(post.id),
+                      {
+                        staleTime: Infinity,
+                      },
+                    )
+                  }
+                  className="p-1 list-disc "
+                  key={post.id}>
                   <p
                     className="underline cursor-pointer text-blue-600"
                     href="#"
