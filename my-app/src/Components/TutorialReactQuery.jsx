@@ -1,8 +1,13 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/no-redundant-roles */
-import React, { useState } from 'react';
-import { useQuery } from 'react-query';
+import React, { useEffect, useState } from 'react';
+import { useQuery, useQueryClient } from 'react-query';
 import axios, { CancelToken } from 'axios';
 import PostMates from './TutorialPartTwo';
+import { GetUsers, InvalidateQueriesButton } from './tutorialPartThree';
+import { GetRandomNum } from './tutorialPartThree';
+import { CreateTodo } from './MutationsTutorial';
+import { TodoList } from './MutationsTutorial';
 
 const email = 'Sincere@april.biz';
 
@@ -142,12 +147,52 @@ const GetPokemon = () => {
   );
 };
 
+async function fetchPosts() {
+  await new Promise((resolve) => setTimeout(resolve, 1000));
+  const res = await axios.get('https://jsonplaceholder.typicode.com/posts');
+  return res.data;
+}
+
 export default function TutorialReactQuery() {
   const [pokemon, setPokemon] = useState('');
+  const [showPosts, setShowPosts] = useState(false);
+
+  const queryClient = useQueryClient();
+
+  const prefetchPosts = async () => {
+    console.log('prefetching');
+    queryClient.prefetchQuery('posts', fetchPosts, { staleTime: 50000 });
+  };
+
+  useEffect(() => {
+    prefetchPosts();
+  }, []);
+
+  function renderShowPostsButton() {
+    return (
+      <div className="mb-4 mt-4 flex flex-row justify-center items-center text-align-center">
+        <button
+          onClick={() => setShowPosts(!showPosts)}
+          type="button"
+          className="inline-flex items-center px-5 py-2 border border-transparent text-base font-medium rounded-full shadow-sm text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
+          Show Posts
+        </button>
+      </div>
+    );
+  }
+
   return (
     <>
+      <TodoList />
+      <CreateTodo />
+      {/* {renderShowPostsButton()}
+      <InvalidateQueriesButton />
+      <GetRandomNum subKey="A" />
+      <GetRandomNum subKey="B" />
+      <GetRandomNum subKey="C" />
       <DependentQuery />
-      <PostMates />
+      {showPosts && <PostMates />}
+      <GetUsers /> */}
       {/* <div className="p-6">
         <input
           value={pokemon}
