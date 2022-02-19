@@ -8,6 +8,7 @@ import { GetUsers, InvalidateQueriesButton } from './tutorialPartThree';
 import { GetRandomNum } from './tutorialPartThree';
 import { CreateTodo } from './MutationsTutorial';
 import { TodoList } from './MutationsTutorial';
+import CamComponent from './WebCams';
 
 const email = 'Sincere@april.biz';
 
@@ -183,8 +184,8 @@ export default function TutorialReactQuery() {
 
   return (
     <>
-      <TodoList />
-      <CreateTodo />
+      <CamComponent />
+
       {/* {renderShowPostsButton()}
       <InvalidateQueriesButton />
       <GetRandomNum subKey="A" />

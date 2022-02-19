@@ -9,8 +9,12 @@
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.0",
+    "coordinator": "^0.5.0",
     "eslint-config-prettier": "^8.3.0",
+    "lodash": "^4.17.21",
     "prettier": "^2.5.1",
+    "random-latitude": "^1.0.1",
+    "random-longitude": "^1.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-query": "^3.34.15",
@@ -22,7 +26,9 @@
     "redux-form": "^8.3.8",
     "redux-thunk": "^2.4.1",
     "styled-components": "^5.3.3",
-    "web-vitals": "^2.1.4"
+    "utm-latlng": "^1.0.6",
+    "web-vitals": "^2.1.4",
+    "wgs84-util": "0.0.3"
   },
   "scripts": {
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",

@@ -1,0 +1,1478 @@
+{
+   "Afghanistan": {
+      "Alpha-2 code": "AF",
+      "Alpha-3 code": "AFG",
+      "Numeric code": 4,
+      "ISO 3166-2": "ISO 3166-2:AF"
+   },
+   "Åland Islands": {
+      "Alpha-2 code": "AX",
+      "Alpha-3 code": "ALA",
+      "Numeric code": 248,
+      "ISO 3166-2": "ISO 3166-2:AX"
+   },
+   "Albania": {
+      "Alpha-2 code": "AL",
+      "Alpha-3 code": "ALB",
+      "Numeric code": 8,
+      "ISO 3166-2": "ISO 3166-2:AL"
+   },
+   "Algeria": {
+      "Alpha-2 code": "DZ",
+      "Alpha-3 code": "DZA",
+      "Numeric code": 12,
+      "ISO 3166-2": "ISO 3166-2:DZ"
+   },
+   "American Samoa": {
+      "Alpha-2 code": "AS",
+      "Alpha-3 code": "ASM",
+      "Numeric code": 16,
+      "ISO 3166-2": "ISO 3166-2:AS"
+   },
+   "Andorra": {
+      "Alpha-2 code": "AD",
+      "Alpha-3 code": "AND",
+      "Numeric code": 20,
+      "ISO 3166-2": "ISO 3166-2:AD"
+   },
+   "Angola": {
+      "Alpha-2 code": "AO",
+      "Alpha-3 code": "AGO",
+      "Numeric code": 24,
+      "ISO 3166-2": "ISO 3166-2:AO"
+   },
+   "Anguilla": {
+      "Alpha-2 code": "AI",
+      "Alpha-3 code": "AIA",
+      "Numeric code": 660,
+      "ISO 3166-2": "ISO 3166-2:AI"
+   },
+   "Antarctica": {
+      "Alpha-2 code": "AQ",
+      "Alpha-3 code": "ATA",
+      "Numeric code": 10,
+      "ISO 3166-2": "ISO 3166-2:AQ"
+   },
+   "Antigua and Barbuda": {
+      "Alpha-2 code": "AG",
+      "Alpha-3 code": "ATG",
+      "Numeric code": 28,
+      "ISO 3166-2": "ISO 3166-2:AG"
+   },
+   "Argentina": {
+      "Alpha-2 code": "AR",
+      "Alpha-3 code": "ARG",
+      "Numeric code": 32,
+      "ISO 3166-2": "ISO 3166-2:AR"
+   },
+   "Armenia": {
+      "Alpha-2 code": "AM",
+      "Alpha-3 code": "ARM",
+      "Numeric code": 51,
+      "ISO 3166-2": "ISO 3166-2:AM"
+   },
+   "Aruba": {
+      "Alpha-2 code": "AW",
+      "Alpha-3 code": "ABW",
+      "Numeric code": 533,
+      "ISO 3166-2": "ISO 3166-2:AW"
+   },
+   "Australia": {
+      "Alpha-2 code": "AU",
+      "Alpha-3 code": "AUS",
+      "Numeric code": 36,
+      "ISO 3166-2": "ISO 3166-2:AU"
+   },
+   "Austria": {
+      "Alpha-2 code": "AT",
+      "Alpha-3 code": "AUT",
+      "Numeric code": 40,
+      "ISO 3166-2": "ISO 3166-2:AT"
+   },
+   "Azerbaijan": {
+      "Alpha-2 code": "AZ",
+      "Alpha-3 code": "AZE",
+      "Numeric code": 31,
+      "ISO 3166-2": "ISO 3166-2:AZ"
+   },
+   "Bahamas": {
+      "Alpha-2 code": "BS",
+      "Alpha-3 code": "BHS",
+      "Numeric code": 44,
+      "ISO 3166-2": "ISO 3166-2:BS"
+   },
+   "Bahrain": {
+      "Alpha-2 code": "BH",
+      "Alpha-3 code": "BHR",
+      "Numeric code": 48,
+      "ISO 3166-2": "ISO 3166-2:BH"
+   },
+   "Bangladesh": {
+      "Alpha-2 code": "BD",
+      "Alpha-3 code": "BGD",
+      "Numeric code": 50,
+      "ISO 3166-2": "ISO 3166-2:BD"
+   },
+   "Barbados": {
+      "Alpha-2 code": "BB",
+      "Alpha-3 code": "BRB",
+      "Numeric code": 52,
+      "ISO 3166-2": "ISO 3166-2:BB"
+   },
+   "Belarus": {
+      "Alpha-2 code": "BY",
+      "Alpha-3 code": "BLR",
+      "Numeric code": 112,
+      "ISO 3166-2": "ISO 3166-2:BY"
+   },
+   "Belgium": {
+      "Alpha-2 code": "BE",
+      "Alpha-3 code": "BEL",
+      "Numeric code": 56,
+      "ISO 3166-2": "ISO 3166-2:BE"
+   },
+   "Belize": {
+      "Alpha-2 code": "BZ",
+      "Alpha-3 code": "BLZ",
+      "Numeric code": 84,
+      "ISO 3166-2": "ISO 3166-2:BZ"
+   },
+   "Benin": {
+      "Alpha-2 code": "BJ",
+      "Alpha-3 code": "BEN",
+      "Numeric code": 204,
+      "ISO 3166-2": "ISO 3166-2:BJ"
+   },
+   "Bermuda": {
+      "Alpha-2 code": "BM",
+      "Alpha-3 code": "BMU",
+      "Numeric code": 60,
+      "ISO 3166-2": "ISO 3166-2:BM"
+   },
+   "Bhutan": {
+      "Alpha-2 code": "BT",
+      "Alpha-3 code": "BTN",
+      "Numeric code": 64,
+      "ISO 3166-2": "ISO 3166-2:BT"
+   },
+   "Bolivia, Plurinational State of": {
+      "Alpha-2 code": "BO",
+      "Alpha-3 code": "BOL",
+      "Numeric code": 68,
+      "ISO 3166-2": "ISO 3166-2:BO"
+   },
+   "Bosnia and Herzegovina": {
+      "Alpha-2 code": "BA",
+      "Alpha-3 code": "BIH",
+      "Numeric code": 70,
+      "ISO 3166-2": "ISO 3166-2:BA"
+   },
+   "Botswana": {
+      "Alpha-2 code": "BW",
+      "Alpha-3 code": "BWA",
+      "Numeric code": 72,
+      "ISO 3166-2": "ISO 3166-2:BW"
+   },
+   "Bouvet Island": {
+      "Alpha-2 code": "BV",
+      "Alpha-3 code": "BVT",
+      "Numeric code": 74,
+      "ISO 3166-2": "ISO 3166-2:BV"
+   },
+   "Brazil": {
+      "Alpha-2 code": "BR",
+      "Alpha-3 code": "BRA",
+      "Numeric code": 76,
+      "ISO 3166-2": "ISO 3166-2:BR"
+   },
+   "British Indian Ocean Territory": {
+      "Alpha-2 code": "IO",
+      "Alpha-3 code": "IOT",
+      "Numeric code": 86,
+      "ISO 3166-2": "ISO 3166-2:IO"
+   },
+   "Brunei Darussalam": {
+      "Alpha-2 code": "BN",
+      "Alpha-3 code": "BRN",
+      "Numeric code": 96,
+      "ISO 3166-2": "ISO 3166-2:BN"
+   },
+   "Bulgaria": {
+      "Alpha-2 code": "BG",
+      "Alpha-3 code": "BGR",
+      "Numeric code": 100,
+      "ISO 3166-2": "ISO 3166-2:BG"
+   },
+   "Burkina Faso": {
+      "Alpha-2 code": "BF",
+      "Alpha-3 code": "BFA",
+      "Numeric code": 854,
+      "ISO 3166-2": "ISO 3166-2:BF"
+   },
+   "Burundi": {
+      "Alpha-2 code": "BI",
+      "Alpha-3 code": "BDI",
+      "Numeric code": 108,
+      "ISO 3166-2": "ISO 3166-2:BI"
+   },
+   "Cambodia": {
+      "Alpha-2 code": "KH",
+      "Alpha-3 code": "KHM",
+      "Numeric code": 116,
+      "ISO 3166-2": "ISO 3166-2:KH"
+   },
+   "Cameroon": {
+      "Alpha-2 code": "CM",
+      "Alpha-3 code": "CMR",
+      "Numeric code": 120,
+      "ISO 3166-2": "ISO 3166-2:CM"
+   },
+   "Canada": {
+      "Alpha-2 code": "CA",
+      "Alpha-3 code": "CAN",
+      "Numeric code": 124,
+      "ISO 3166-2": "ISO 3166-2:CA"
+   },
+   "Cape Verde": {
+      "Alpha-2 code": "CV",
+      "Alpha-3 code": "CPV",
+      "Numeric code": 132,
+      "ISO 3166-2": "ISO 3166-2:CV"
+   },
+   "Cayman Islands": {
+      "Alpha-2 code": "KY",
+      "Alpha-3 code": "CYM",
+      "Numeric code": 136,
+      "ISO 3166-2": "ISO 3166-2:KY"
+   },
+   "Central African Republic": {
+      "Alpha-2 code": "CF",
+      "Alpha-3 code": "CAF",
+      "Numeric code": 140,
+      "ISO 3166-2": "ISO 3166-2:CF"
+   },
+   "Chad": {
+      "Alpha-2 code": "TD",
+      "Alpha-3 code": "TCD",
+      "Numeric code": 148,
+      "ISO 3166-2": "ISO 3166-2:TD"
+   },
+   "Chile": {
+      "Alpha-2 code": "CL",
+      "Alpha-3 code": "CHL",
+      "Numeric code": 152,
+      "ISO 3166-2": "ISO 3166-2:CL"
+   },
+   "China": {
+      "Alpha-2 code": "CN",
+      "Alpha-3 code": "CHN",
+      "Numeric code": 156,
+      "ISO 3166-2": "ISO 3166-2:CN"
+   },
+   "Christmas Island": {
+      "Alpha-2 code": "CX",
+      "Alpha-3 code": "CXR",
+      "Numeric code": 162,
+      "ISO 3166-2": "ISO 3166-2:CX"
+   },
+   "Cocos (Keeling) Islands": {
+      "Alpha-2 code": "CC",
+      "Alpha-3 code": "CCK",
+      "Numeric code": 166,
+      "ISO 3166-2": "ISO 3166-2:CC"
+   },
+   "Colombia": {
+      "Alpha-2 code": "CO",
+      "Alpha-3 code": "COL",
+      "Numeric code": 170,
+      "ISO 3166-2": "ISO 3166-2:CO"
+   },
+   "Comoros": {
+      "Alpha-2 code": "KM",
+      "Alpha-3 code": "COM",
+      "Numeric code": 174,
+      "ISO 3166-2": "ISO 3166-2:KM"
+   },
+   "Congo": {
+      "Alpha-2 code": "CG",
+      "Alpha-3 code": "COG",
+      "Numeric code": 178,
+      "ISO 3166-2": "ISO 3166-2:CG"
+   },
+   "Congo, the Democratic Republic of the": {
+      "Alpha-2 code": "CD",
+      "Alpha-3 code": "COD",
+      "Numeric code": 180,
+      "ISO 3166-2": "ISO 3166-2:CD"
+   },
+   "Cook Islands": {
+      "Alpha-2 code": "CK",
+      "Alpha-3 code": "COK",
+      "Numeric code": 184,
+      "ISO 3166-2": "ISO 3166-2:CK"
+   },
+   "Costa Rica": {
+      "Alpha-2 code": "CR",
+      "Alpha-3 code": "CRI",
+      "Numeric code": 188,
+      "ISO 3166-2": "ISO 3166-2:CR"
+   },
+   "Côte d'Ivoire": {
+      "Alpha-2 code": "CI",
+      "Alpha-3 code": "CIV",
+      "Numeric code": 384,
+      "ISO 3166-2": "ISO 3166-2:CI"
+   },
+   "Croatia": {
+      "Alpha-2 code": "HR",
+      "Alpha-3 code": "HRV",
+      "Numeric code": 191,
+      "ISO 3166-2": "ISO 3166-2:HR"
+   },
+   "Cuba": {
+      "Alpha-2 code": "CU",
+      "Alpha-3 code": "CUB",
+      "Numeric code": 192,
+      "ISO 3166-2": "ISO 3166-2:CU"
+   },
+   "Cyprus": {
+      "Alpha-2 code": "CY",
+      "Alpha-3 code": "CYP",
+      "Numeric code": 196,
+      "ISO 3166-2": "ISO 3166-2:CY"
+   },
+   "Czech Republic": {
+      "Alpha-2 code": "CZ",
+      "Alpha-3 code": "CZE",
+      "Numeric code": 203,
+      "ISO 3166-2": "ISO 3166-2:CZ"
+   },
+   "Denmark": {
+      "Alpha-2 code": "DK",
+      "Alpha-3 code": "DNK",
+      "Numeric code": 208,
+      "ISO 3166-2": "ISO 3166-2:DK"
+   },
+   "Djibouti": {
+      "Alpha-2 code": "DJ",
+      "Alpha-3 code": "DJI",
+      "Numeric code": 262,
+      "ISO 3166-2": "ISO 3166-2:DJ"
+   },
+   "Dominica": {
+      "Alpha-2 code": "DM",
+      "Alpha-3 code": "DMA",
+      "Numeric code": 212,
+      "ISO 3166-2": "ISO 3166-2:DM"
+   },
+   "Dominican Republic": {
+      "Alpha-2 code": "DO",
+      "Alpha-3 code": "DOM",
+      "Numeric code": 214,
+      "ISO 3166-2": "ISO 3166-2:DO"
+   },
+   "Ecuador": {
+      "Alpha-2 code": "EC",
+      "Alpha-3 code": "ECU",
+      "Numeric code": 218,
+      "ISO 3166-2": "ISO 3166-2:EC"
+   },
+   "Egypt": {
+      "Alpha-2 code": "EG",
+      "Alpha-3 code": "EGY",
+      "Numeric code": 818,
+      "ISO 3166-2": "ISO 3166-2:EG"
+   },
+   "El Salvador": {
+      "Alpha-2 code": "SV",
+      "Alpha-3 code": "SLV",
+      "Numeric code": 222,
+      "ISO 3166-2": "ISO 3166-2:SV"
+   },
+   "Equatorial Guinea": {
+      "Alpha-2 code": "GQ",
+      "Alpha-3 code": "GNQ",
+      "Numeric code": 226,
+      "ISO 3166-2": "ISO 3166-2:GQ"
+   },
+   "Eritrea": {
+      "Alpha-2 code": "ER",
+      "Alpha-3 code": "ERI",
+      "Numeric code": 232,
+      "ISO 3166-2": "ISO 3166-2:ER"
+   },
+   "Estonia": {
+      "Alpha-2 code": "EE",
+      "Alpha-3 code": "EST",
+      "Numeric code": 233,
+      "ISO 3166-2": "ISO 3166-2:EE"
+   },
+   "Ethiopia": {
+      "Alpha-2 code": "ET",
+      "Alpha-3 code": "ETH",
+      "Numeric code": 231,
+      "ISO 3166-2": "ISO 3166-2:ET"
+   },
+   "Falkland Islands (Malvinas)": {
+      "Alpha-2 code": "FK",
+      "Alpha-3 code": "FLK",
+      "Numeric code": 238,
+      "ISO 3166-2": "ISO 3166-2:FK"
+   },
+   "Faroe Islands": {
+      "Alpha-2 code": "FO",
+      "Alpha-3 code": "FRO",
+      "Numeric code": 234,
+      "ISO 3166-2": "ISO 3166-2:FO"
+   },
+   "Fiji": {
+      "Alpha-2 code": "FJ",
+      "Alpha-3 code": "FJI",
+      "Numeric code": 242,
+      "ISO 3166-2": "ISO 3166-2:FJ"
+   },
+   "Finland": {
+      "Alpha-2 code": "FI",
+      "Alpha-3 code": "FIN",
+      "Numeric code": 246,
+      "ISO 3166-2": "ISO 3166-2:FI"
+   },
+   "France": {
+      "Alpha-2 code": "FR",
+      "Alpha-3 code": "FRA",
+      "Numeric code": 250,
+      "ISO 3166-2": "ISO 3166-2:FR"
+   },
+   "French Guiana": {
+      "Alpha-2 code": "GF",
+      "Alpha-3 code": "GUF",
+      "Numeric code": 254,
+      "ISO 3166-2": "ISO 3166-2:GF"
+   },
+   "French Polynesia": {
+      "Alpha-2 code": "PF",
+      "Alpha-3 code": "PYF",
+      "Numeric code": 258,
+      "ISO 3166-2": "ISO 3166-2:PF"
+   },
+   "French Southern Territories": {
+      "Alpha-2 code": "TF",
+      "Alpha-3 code": "ATF",
+      "Numeric code": 260,
+      "ISO 3166-2": "ISO 3166-2:TF"
+   },
+   "Gabon": {
+      "Alpha-2 code": "GA",
+      "Alpha-3 code": "GAB",
+      "Numeric code": 266,
+      "ISO 3166-2": "ISO 3166-2:GA"
+   },
+   "Gambia": {
+      "Alpha-2 code": "GM",
+      "Alpha-3 code": "GMB",
+      "Numeric code": 270,
+      "ISO 3166-2": "ISO 3166-2:GM"
+   },
+   "Georgia": {
+      "Alpha-2 code": "GE",
+      "Alpha-3 code": "GEO",
+      "Numeric code": 268,
+      "ISO 3166-2": "ISO 3166-2:GE"
+   },
+   "Germany": {
+      "Alpha-2 code": "DE",
+      "Alpha-3 code": "DEU",
+      "Numeric code": 276,
+      "ISO 3166-2": "ISO 3166-2:DE"
+   },
+   "Ghana": {
+      "Alpha-2 code": "GH",
+      "Alpha-3 code": "GHA",
+      "Numeric code": 288,
+      "ISO 3166-2": "ISO 3166-2:GH"
+   },
+   "Gibraltar": {
+      "Alpha-2 code": "GI",
+      "Alpha-3 code": "GIB",
+      "Numeric code": 292,
+      "ISO 3166-2": "ISO 3166-2:GI"
+   },
+   "Greece": {
+      "Alpha-2 code": "GR",
+      "Alpha-3 code": "GRC",
+      "Numeric code": 300,
+      "ISO 3166-2": "ISO 3166-2:GR"
+   },
+   "Greenland": {
+      "Alpha-2 code": "GL",
+      "Alpha-3 code": "GRL",
+      "Numeric code": 304,
+      "ISO 3166-2": "ISO 3166-2:GL"
+   },
+   "Grenada": {
+      "Alpha-2 code": "GD",
+      "Alpha-3 code": "GRD",
+      "Numeric code": 308,
+      "ISO 3166-2": "ISO 3166-2:GD"
+   },
+   "Guadeloupe": {
+      "Alpha-2 code": "GP",
+      "Alpha-3 code": "GLP",
+      "Numeric code": 312,
+      "ISO 3166-2": "ISO 3166-2:GP"
+   },
+   "Guam": {
+      "Alpha-2 code": "GU",
+      "Alpha-3 code": "GUM",
+      "Numeric code": 316,
+      "ISO 3166-2": "ISO 3166-2:GU"
+   },
+   "Guatemala": {
+      "Alpha-2 code": "GT",
+      "Alpha-3 code": "GTM",
+      "Numeric code": 320,
+      "ISO 3166-2": "ISO 3166-2:GT"
+   },
+   "Guernsey": {
+      "Alpha-2 code": "GG",
+      "Alpha-3 code": "GGY",
+      "Numeric code": 831,
+      "ISO 3166-2": "ISO 3166-2:GG"
+   },
+   "Guinea": {
+      "Alpha-2 code": "GN",
+      "Alpha-3 code": "GIN",
+      "Numeric code": 324,
+      "ISO 3166-2": "ISO 3166-2:GN"
+   },
+   "Guinea-Bissau": {
+      "Alpha-2 code": "GW",
+      "Alpha-3 code": "GNB",
+      "Numeric code": 624,
+      "ISO 3166-2": "ISO 3166-2:GW"
+   },
+   "Guyana": {
+      "Alpha-2 code": "GY",
+      "Alpha-3 code": "GUY",
+      "Numeric code": 328,
+      "ISO 3166-2": "ISO 3166-2:GY"
+   },
+   "Haiti": {
+      "Alpha-2 code": "HT",
+      "Alpha-3 code": "HTI",
+      "Numeric code": 332,
+      "ISO 3166-2": "ISO 3166-2:HT"
+   },
+   "Heard Island and McDonald Islands": {
+      "Alpha-2 code": "HM",
+      "Alpha-3 code": "HMD",
+      "Numeric code": 334,
+      "ISO 3166-2": "ISO 3166-2:HM"
+   },
+   "Holy See (Vatican City State)": {
+      "Alpha-2 code": "VA",
+      "Alpha-3 code": "VAT",
+      "Numeric code": 336,
+      "ISO 3166-2": "ISO 3166-2:VA"
+   },
+   "Honduras": {
+      "Alpha-2 code": "HN",
+      "Alpha-3 code": "HND",
+      "Numeric code": 340,
+      "ISO 3166-2": "ISO 3166-2:HN"
+   },
+   "Hong Kong": {
+      "Alpha-2 code": "HK",
+      "Alpha-3 code": "HKG",
+      "Numeric code": 344,
+      "ISO 3166-2": "ISO 3166-2:HK"
+   },
+   "Hungary": {
+      "Alpha-2 code": "HU",
+      "Alpha-3 code": "HUN",
+      "Numeric code": 348,
+      "ISO 3166-2": "ISO 3166-2:HU"
+   },
+   "Iceland": {
+      "Alpha-2 code": "IS",
+      "Alpha-3 code": "ISL",
+      "Numeric code": 352,
+      "ISO 3166-2": "ISO 3166-2:IS"
+   },
+   "India": {
+      "Alpha-2 code": "IN",
+      "Alpha-3 code": "IND",
+      "Numeric code": 356,
+      "ISO 3166-2": "ISO 3166-2:IN"
+   },
+   "Indonesia": {
+      "Alpha-2 code": "ID",
+      "Alpha-3 code": "IDN",
+      "Numeric code": 360,
+      "ISO 3166-2": "ISO 3166-2:ID"
+   },
+   "Iran, Islamic Republic of": {
+      "Alpha-2 code": "IR",
+      "Alpha-3 code": "IRN",
+      "Numeric code": 364,
+      "ISO 3166-2": "ISO 3166-2:IR"
+   },
+   "Iraq": {
+      "Alpha-2 code": "IQ",
+      "Alpha-3 code": "IRQ",
+      "Numeric code": 368,
+      "ISO 3166-2": "ISO 3166-2:IQ"
+   },
+   "Ireland": {
+      "Alpha-2 code": "IE",
+      "Alpha-3 code": "IRL",
+      "Numeric code": 372,
+      "ISO 3166-2": "ISO 3166-2:IE"
+   },
+   "Isle of Man": {
+      "Alpha-2 code": "IM",
+      "Alpha-3 code": "IMN",
+      "Numeric code": 833,
+      "ISO 3166-2": "ISO 3166-2:IM"
+   },
+   "Israel": {
+      "Alpha-2 code": "IL",
+      "Alpha-3 code": "ISR",
+      "Numeric code": 376,
+      "ISO 3166-2": "ISO 3166-2:IL"
+   },
+   "Italy": {
+      "Alpha-2 code": "IT",
+      "Alpha-3 code": "ITA",
+      "Numeric code": 380,
+      "ISO 3166-2": "ISO 3166-2:IT"
+   },
+   "Jamaica": {
+      "Alpha-2 code": "JM",
+      "Alpha-3 code": "JAM",
+      "Numeric code": 388,
+      "ISO 3166-2": "ISO 3166-2:JM"
+   },
+   "Japan": {
+      "Alpha-2 code": "JP",
+      "Alpha-3 code": "JPN",
+      "Numeric code": 392,
+      "ISO 3166-2": "ISO 3166-2:JP"
+   },
+   "Jersey": {
+      "Alpha-2 code": "JE",
+      "Alpha-3 code": "JEY",
+      "Numeric code": 832,
+      "ISO 3166-2": "ISO 3166-2:JE"
+   },
+   "Jordan": {
+      "Alpha-2 code": "JO",
+      "Alpha-3 code": "JOR",
+      "Numeric code": 400,
+      "ISO 3166-2": "ISO 3166-2:JO"
+   },
+   "Kazakhstan": {
+      "Alpha-2 code": "KZ",
+      "Alpha-3 code": "KAZ",
+      "Numeric code": 398,
+      "ISO 3166-2": "ISO 3166-2:KZ"
+   },
+   "Kenya": {
+      "Alpha-2 code": "KE",
+      "Alpha-3 code": "KEN",
+      "Numeric code": 404,
+      "ISO 3166-2": "ISO 3166-2:KE"
+   },
+   "Kiribati": {
+      "Alpha-2 code": "KI",
+      "Alpha-3 code": "KIR",
+      "Numeric code": 296,
+      "ISO 3166-2": "ISO 3166-2:KI"
+   },
+   "Korea, Democratic People's Republic of": {
+      "Alpha-2 code": "KP",
+      "Alpha-3 code": "PRK",
+      "Numeric code": 408,
+      "ISO 3166-2": "ISO 3166-2:KP"
+   },
+   "Korea, Republic of": {
+      "Alpha-2 code": "KR",
+      "Alpha-3 code": "KOR",
+      "Numeric code": 410,
+      "ISO 3166-2": "ISO 3166-2:KR"
+   },
+   "Kuwait": {
+      "Alpha-2 code": "KW",
+      "Alpha-3 code": "KWT",
+      "Numeric code": 414,
+      "ISO 3166-2": "ISO 3166-2:KW"
+   },
+   "Kyrgyzstan": {
+      "Alpha-2 code": "KG",
+      "Alpha-3 code": "KGZ",
+      "Numeric code": 417,
+      "ISO 3166-2": "ISO 3166-2:KG"
+   },
+   "Lao People's Democratic Republic": {
+      "Alpha-2 code": "LA",
+      "Alpha-3 code": "LAO",
+      "Numeric code": 418,
+      "ISO 3166-2": "ISO 3166-2:LA"
+   },
+   "Latvia": {
+      "Alpha-2 code": "LV",
+      "Alpha-3 code": "LVA",
+      "Numeric code": 428,
+      "ISO 3166-2": "ISO 3166-2:LV"
+   },
+   "Lebanon": {
+      "Alpha-2 code": "LB",
+      "Alpha-3 code": "LBN",
+      "Numeric code": 422,
+      "ISO 3166-2": "ISO 3166-2:LB"
+   },
+   "Lesotho": {
+      "Alpha-2 code": "LS",
+      "Alpha-3 code": "LSO",
+      "Numeric code": 426,
+      "ISO 3166-2": "ISO 3166-2:LS"
+   },
+   "Liberia": {
+      "Alpha-2 code": "LR",
+      "Alpha-3 code": "LBR",
+      "Numeric code": 430,
+      "ISO 3166-2": "ISO 3166-2:LR"
+   },
+   "Libyan Arab Jamahiriya": {
+      "Alpha-2 code": "LY",
+      "Alpha-3 code": "LBY",
+      "Numeric code": 434,
+      "ISO 3166-2": "ISO 3166-2:LY"
+   },
+   "Liechtenstein": {
+      "Alpha-2 code": "LI",
+      "Alpha-3 code": "LIE",
+      "Numeric code": 438,
+      "ISO 3166-2": "ISO 3166-2:LI"
+   },
+   "Lithuania": {
+      "Alpha-2 code": "LT",
+      "Alpha-3 code": "LTU",
+      "Numeric code": 440,
+      "ISO 3166-2": "ISO 3166-2:LT"
+   },
+   "Luxembourg": {
+      "Alpha-2 code": "LU",
+      "Alpha-3 code": "LUX",
+      "Numeric code": 442,
+      "ISO 3166-2": "ISO 3166-2:LU"
+   },
+   "Macao": {
+      "Alpha-2 code": "MO",
+      "Alpha-3 code": "MAC",
+      "Numeric code": 446,
+      "ISO 3166-2": "ISO 3166-2:MO"
+   },
+   "Macedonia, the former Yugoslav Republic of": {
+      "Alpha-2 code": "MK",
+      "Alpha-3 code": "MKD",
+      "Numeric code": 807,
+      "ISO 3166-2": "ISO 3166-2:MK"
+   },
+   "Madagascar": {
+      "Alpha-2 code": "MG",
+      "Alpha-3 code": "MDG",
+      "Numeric code": 450,
+      "ISO 3166-2": "ISO 3166-2:MG"
+   },
+   "Malawi": {
+      "Alpha-2 code": "MW",
+      "Alpha-3 code": "MWI",
+      "Numeric code": 454,
+      "ISO 3166-2": "ISO 3166-2:MW"
+   },
+   "Malaysia": {
+      "Alpha-2 code": "MY",
+      "Alpha-3 code": "MYS",
+      "Numeric code": 458,
+      "ISO 3166-2": "ISO 3166-2:MY"
+   },
+   "Maldives": {
+      "Alpha-2 code": "MV",
+      "Alpha-3 code": "MDV",
+      "Numeric code": 462,
+      "ISO 3166-2": "ISO 3166-2:MV"
+   },
+   "Mali": {
+      "Alpha-2 code": "ML",
+      "Alpha-3 code": "MLI",
+      "Numeric code": 466,
+      "ISO 3166-2": "ISO 3166-2:ML"
+   },
+   "Malta": {
+      "Alpha-2 code": "MT",
+      "Alpha-3 code": "MLT",
+      "Numeric code": 470,
+      "ISO 3166-2": "ISO 3166-2:MT"
+   },
+   "Marshall Islands": {
+      "Alpha-2 code": "MH",
+      "Alpha-3 code": "MHL",
+      "Numeric code": 584,
+      "ISO 3166-2": "ISO 3166-2:MH"
+   },
+   "Martinique": {
+      "Alpha-2 code": "MQ",
+      "Alpha-3 code": "MTQ",
+      "Numeric code": 474,
+      "ISO 3166-2": "ISO 3166-2:MQ"
+   },
+   "Mauritania": {
+      "Alpha-2 code": "MR",
+      "Alpha-3 code": "MRT",
+      "Numeric code": 478,
+      "ISO 3166-2": "ISO 3166-2:MR"
+   },
+   "Mauritius": {
+      "Alpha-2 code": "MU",
+      "Alpha-3 code": "MUS",
+      "Numeric code": 480,
+      "ISO 3166-2": "ISO 3166-2:MU"
+   },
+   "Mayotte": {
+      "Alpha-2 code": "YT",
+      "Alpha-3 code": "MYT",
+      "Numeric code": 175,
+      "ISO 3166-2": "ISO 3166-2:YT"
+   },
+   "Mexico": {
+      "Alpha-2 code": "MX",
+      "Alpha-3 code": "MEX",
+      "Numeric code": 484,
+      "ISO 3166-2": "ISO 3166-2:MX"
+   },
+   "Micronesia, Federated States of": {
+      "Alpha-2 code": "FM",
+      "Alpha-3 code": "FSM",
+      "Numeric code": 583,
+      "ISO 3166-2": "ISO 3166-2:FM"
+   },
+   "Moldova, Republic of": {
+      "Alpha-2 code": "MD",
+      "Alpha-3 code": "MDA",
+      "Numeric code": 498,
+      "ISO 3166-2": "ISO 3166-2:MD"
+   },
+   "Monaco": {
+      "Alpha-2 code": "MC",
+      "Alpha-3 code": "MCO",
+      "Numeric code": 492,
+      "ISO 3166-2": "ISO 3166-2:MC"
+   },
+   "Mongolia": {
+      "Alpha-2 code": "MN",
+      "Alpha-3 code": "MNG",
+      "Numeric code": 496,
+      "ISO 3166-2": "ISO 3166-2:MN"
+   },
+   "Montenegro": {
+      "Alpha-2 code": "ME",
+      "Alpha-3 code": "MNE",
+      "Numeric code": 499,
+      "ISO 3166-2": "ISO 3166-2:ME"
+   },
+   "Montserrat": {
+      "Alpha-2 code": "MS",
+      "Alpha-3 code": "MSR",
+      "Numeric code": 500,
+      "ISO 3166-2": "ISO 3166-2:MS"
+   },
+   "Morocco": {
+      "Alpha-2 code": "MA",
+      "Alpha-3 code": "MAR",
+      "Numeric code": 504,
+      "ISO 3166-2": "ISO 3166-2:MA"
+   },
+   "Mozambique": {
+      "Alpha-2 code": "MZ",
+      "Alpha-3 code": "MOZ",
+      "Numeric code": 508,
+      "ISO 3166-2": "ISO 3166-2:MZ"
+   },
+   "Myanmar": {
+      "Alpha-2 code": "MM",
+      "Alpha-3 code": "MMR",
+      "Numeric code": 104,
+      "ISO 3166-2": "ISO 3166-2:MM"
+   },
+   "Namibia": {
+      "Alpha-2 code": "NA",
+      "Alpha-3 code": "NAM",
+      "Numeric code": 516,
+      "ISO 3166-2": "ISO 3166-2:NA"
+   },
+   "Nauru": {
+      "Alpha-2 code": "NR",
+      "Alpha-3 code": "NRU",
+      "Numeric code": 520,
+      "ISO 3166-2": "ISO 3166-2:NR"
+   },
+   "Nepal": {
+      "Alpha-2 code": "NP",
+      "Alpha-3 code": "NPL",
+      "Numeric code": 524,
+      "ISO 3166-2": "ISO 3166-2:NP"
+   },
+   "Netherlands": {
+      "Alpha-2 code": "NL",
+      "Alpha-3 code": "NLD",
+      "Numeric code": 528,
+      "ISO 3166-2": "ISO 3166-2:NL"
+   },
+   "Netherlands Antilles": {
+      "Alpha-2 code": "AN",
+      "Alpha-3 code": "ANT",
+      "Numeric code": 530,
+      "ISO 3166-2": "ISO 3166-2:AN"
+   },
+   "New Caledonia": {
+      "Alpha-2 code": "NC",
+      "Alpha-3 code": "NCL",
+      "Numeric code": 540,
+      "ISO 3166-2": "ISO 3166-2:NC"
+   },
+   "New Zealand": {
+      "Alpha-2 code": "NZ",
+      "Alpha-3 code": "NZL",
+      "Numeric code": 554,
+      "ISO 3166-2": "ISO 3166-2:NZ"
+   },
+   "Nicaragua": {
+      "Alpha-2 code": "NI",
+      "Alpha-3 code": "NIC",
+      "Numeric code": 558,
+      "ISO 3166-2": "ISO 3166-2:NI"
+   },
+   "Niger": {
+      "Alpha-2 code": "NE",
+      "Alpha-3 code": "NER",
+      "Numeric code": 562,
+      "ISO 3166-2": "ISO 3166-2:NE"
+   },
+   "Nigeria": {
+      "Alpha-2 code": "NG",
+      "Alpha-3 code": "NGA",
+      "Numeric code": 566,
+      "ISO 3166-2": "ISO 3166-2:NG"
+   },
+   "Niue": {
+      "Alpha-2 code": "NU",
+      "Alpha-3 code": "NIU",
+      "Numeric code": 570,
+      "ISO 3166-2": "ISO 3166-2:NU"
+   },
+   "Norfolk Island": {
+      "Alpha-2 code": "NF",
+      "Alpha-3 code": "NFK",
+      "Numeric code": 574,
+      "ISO 3166-2": "ISO 3166-2:NF"
+   },
+   "Northern Mariana Islands": {
+      "Alpha-2 code": "MP",
+      "Alpha-3 code": "MNP",
+      "Numeric code": 580,
+      "ISO 3166-2": "ISO 3166-2:MP"
+   },
+   "Norway": {
+      "Alpha-2 code": "NO",
+      "Alpha-3 code": "NOR",
+      "Numeric code": 578,
+      "ISO 3166-2": "ISO 3166-2:NO"
+   },
+   "Oman": {
+      "Alpha-2 code": "OM",
+      "Alpha-3 code": "OMN",
+      "Numeric code": 512,
+      "ISO 3166-2": "ISO 3166-2:OM"
+   },
+   "Pakistan": {
+      "Alpha-2 code": "PK",
+      "Alpha-3 code": "PAK",
+      "Numeric code": 586,
+      "ISO 3166-2": "ISO 3166-2:PK"
+   },
+   "Palau": {
+      "Alpha-2 code": "PW",
+      "Alpha-3 code": "PLW",
+      "Numeric code": 585,
+      "ISO 3166-2": "ISO 3166-2:PW"
+   },
+   "Palestinian Territory, Occupied": {
+      "Alpha-2 code": "PS",
+      "Alpha-3 code": "PSE",
+      "Numeric code": 275,
+      "ISO 3166-2": "ISO 3166-2:PS"
+   },
+   "Panama": {
+      "Alpha-2 code": "PA",
+      "Alpha-3 code": "PAN",
+      "Numeric code": 591,
+      "ISO 3166-2": "ISO 3166-2:PA"
+   },
+   "Papua New Guinea": {
+      "Alpha-2 code": "PG",
+      "Alpha-3 code": "PNG",
+      "Numeric code": 598,
+      "ISO 3166-2": "ISO 3166-2:PG"
+   },
+   "Paraguay": {
+      "Alpha-2 code": "PY",
+      "Alpha-3 code": "PRY",
+      "Numeric code": 600,
+      "ISO 3166-2": "ISO 3166-2:PY"
+   },
+   "Peru": {
+      "Alpha-2 code": "PE",
+      "Alpha-3 code": "PER",
+      "Numeric code": 604,
+      "ISO 3166-2": "ISO 3166-2:PE"
+   },
+   "Philippines": {
+      "Alpha-2 code": "PH",
+      "Alpha-3 code": "PHL",
+      "Numeric code": 608,
+      "ISO 3166-2": "ISO 3166-2:PH"
+   },
+   "Pitcairn": {
+      "Alpha-2 code": "PN",
+      "Alpha-3 code": "PCN",
+      "Numeric code": 612,
+      "ISO 3166-2": "ISO 3166-2:PN"
+   },
+   "Poland": {
+      "Alpha-2 code": "PL",
+      "Alpha-3 code": "POL",
+      "Numeric code": 616,
+      "ISO 3166-2": "ISO 3166-2:PL"
+   },
+   "Portugal": {
+      "Alpha-2 code": "PT",
+      "Alpha-3 code": "PRT",
+      "Numeric code": 620,
+      "ISO 3166-2": "ISO 3166-2:PT"
+   },
+   "Puerto Rico": {
+      "Alpha-2 code": "PR",
+      "Alpha-3 code": "PRI",
+      "Numeric code": 630,
+      "ISO 3166-2": "ISO 3166-2:PR"
+   },
+   "Qatar": {
+      "Alpha-2 code": "QA",
+      "Alpha-3 code": "QAT",
+      "Numeric code": 634,
+      "ISO 3166-2": "ISO 3166-2:QA"
+   },
+   "Réunion": {
+      "Alpha-2 code": "RE",
+      "Alpha-3 code": "REU",
+      "Numeric code": 638,
+      "ISO 3166-2": "ISO 3166-2:RE"
+   },
+   "Romania": {
+      "Alpha-2 code": "RO",
+      "Alpha-3 code": "ROU",
+      "Numeric code": 642,
+      "ISO 3166-2": "ISO 3166-2:RO"
+   },
+   "Russian Federation": {
+      "Alpha-2 code": "RU",
+      "Alpha-3 code": "RUS",
+      "Numeric code": 643,
+      "ISO 3166-2": "ISO 3166-2:RU"
+   },
+   "Rwanda": {
+      "Alpha-2 code": "RW",
+      "Alpha-3 code": "RWA",
+      "Numeric code": 646,
+      "ISO 3166-2": "ISO 3166-2:RW"
+   },
+   "Saint Barthélemy": {
+      "Alpha-2 code": "BL",
+      "Alpha-3 code": "BLM",
+      "Numeric code": 652,
+      "ISO 3166-2": "ISO 3166-2:BL"
+   },
+   "Saint Helena, Ascension and Tristan da Cunha": {
+      "Alpha-2 code": "SH",
+      "Alpha-3 code": "SHN",
+      "Numeric code": 654,
+      "ISO 3166-2": "ISO 3166-2:SH"
+   },
+   "Saint Kitts and Nevis": {
+      "Alpha-2 code": "KN",
+      "Alpha-3 code": "KNA",
+      "Numeric code": 659,
+      "ISO 3166-2": "ISO 3166-2:KN"
+   },
+   "Saint Lucia": {
+      "Alpha-2 code": "LC",
+      "Alpha-3 code": "LCA",
+      "Numeric code": 662,
+      "ISO 3166-2": "ISO 3166-2:LC"
+   },
+   "Saint Martin (French part)": {
+      "Alpha-2 code": "MF",
+      "Alpha-3 code": "MAF",
+      "Numeric code": 663,
+      "ISO 3166-2": "ISO 3166-2:MF"
+   },
+   "Saint Pierre and Miquelon": {
+      "Alpha-2 code": "PM",
+      "Alpha-3 code": "SPM",
+      "Numeric code": 666,
+      "ISO 3166-2": "ISO 3166-2:PM"
+   },
+   "Saint Vincent and the Grenadines": {
+      "Alpha-2 code": "VC",
+      "Alpha-3 code": "VCT",
+      "Numeric code": 670,
+      "ISO 3166-2": "ISO 3166-2:VC"
+   },
+   "Samoa": {
+      "Alpha-2 code": "WS",
+      "Alpha-3 code": "WSM",
+      "Numeric code": 882,
+      "ISO 3166-2": "ISO 3166-2:WS"
+   },
+   "San Marino": {
+      "Alpha-2 code": "SM",
+      "Alpha-3 code": "SMR",
+      "Numeric code": 674,
+      "ISO 3166-2": "ISO 3166-2:SM"
+   },
+   "Sao Tome and Principe": {
+      "Alpha-2 code": "ST",
+      "Alpha-3 code": "STP",
+      "Numeric code": 678,
+      "ISO 3166-2": "ISO 3166-2:ST"
+   },
+   "Saudi Arabia": {
+      "Alpha-2 code": "SA",
+      "Alpha-3 code": "SAU",
+      "Numeric code": 682,
+      "ISO 3166-2": "ISO 3166-2:SA"
+   },
+   "Senegal": {
+      "Alpha-2 code": "SN",
+      "Alpha-3 code": "SEN",
+      "Numeric code": 686,
+      "ISO 3166-2": "ISO 3166-2:SN"
+   },
+   "Serbia": {
+      "Alpha-2 code": "RS",
+      "Alpha-3 code": "SRB",
+      "Numeric code": 688,
+      "ISO 3166-2": "ISO 3166-2:RS"
+   },
+   "Seychelles": {
+      "Alpha-2 code": "SC",
+      "Alpha-3 code": "SYC",
+      "Numeric code": 690,
+      "ISO 3166-2": "ISO 3166-2:SC"
+   },
+   "Sierra Leone": {
+      "Alpha-2 code": "SL",
+      "Alpha-3 code": "SLE",
+      "Numeric code": 694,
+      "ISO 3166-2": "ISO 3166-2:SL"
+   },
+   "Singapore": {
+      "Alpha-2 code": "SG",
+      "Alpha-3 code": "SGP",
+      "Numeric code": 702,
+      "ISO 3166-2": "ISO 3166-2:SG"
+   },
+   "Slovakia": {
+      "Alpha-2 code": "SK",
+      "Alpha-3 code": "SVK",
+      "Numeric code": 703,
+      "ISO 3166-2": "ISO 3166-2:SK"
+   },
+   "Slovenia": {
+      "Alpha-2 code": "SI",
+      "Alpha-3 code": "SVN",
+      "Numeric code": 705,
+      "ISO 3166-2": "ISO 3166-2:SI"
+   },
+   "Solomon Islands": {
+      "Alpha-2 code": "SB",
+      "Alpha-3 code": "SLB",
+      "Numeric code": 90,
+      "ISO 3166-2": "ISO 3166-2:SB"
+   },
+   "Somalia": {
+      "Alpha-2 code": "SO",
+      "Alpha-3 code": "SOM",
+      "Numeric code": 706,
+      "ISO 3166-2": "ISO 3166-2:SO"
+   },
+   "South Africa": {
+      "Alpha-2 code": "ZA",
+      "Alpha-3 code": "ZAF",
+      "Numeric code": 710,
+      "ISO 3166-2": "ISO 3166-2:ZA"
+   },
+   "South Georgia and the South Sandwich Islands": {
+      "Alpha-2 code": "GS",
+      "Alpha-3 code": "SGS",
+      "Numeric code": 239,
+      "ISO 3166-2": "ISO 3166-2:GS"
+   },
+   "Spain": {
+      "Alpha-2 code": "ES",
+      "Alpha-3 code": "ESP",
+      "Numeric code": 724,
+      "ISO 3166-2": "ISO 3166-2:ES"
+   },
+   "Sri Lanka": {
+      "Alpha-2 code": "LK",
+      "Alpha-3 code": "LKA",
+      "Numeric code": 144,
+      "ISO 3166-2": "ISO 3166-2:LK"
+   },
+   "Sudan": {
+      "Alpha-2 code": "SD",
+      "Alpha-3 code": "SDN",
+      "Numeric code": 736,
+      "ISO 3166-2": "ISO 3166-2:SD"
+   },
+   "Suriname": {
+      "Alpha-2 code": "SR",
+      "Alpha-3 code": "SUR",
+      "Numeric code": 740,
+      "ISO 3166-2": "ISO 3166-2:SR"
+   },
+   "Svalbard and Jan Mayen": {
+      "Alpha-2 code": "SJ",
+      "Alpha-3 code": "SJM",
+      "Numeric code": 744,
+      "ISO 3166-2": "ISO 3166-2:SJ"
+   },
+   "Swaziland": {
+      "Alpha-2 code": "SZ",
+      "Alpha-3 code": "SWZ",
+      "Numeric code": 748,
+      "ISO 3166-2": "ISO 3166-2:SZ"
+   },
+   "Sweden": {
+      "Alpha-2 code": "SE",
+      "Alpha-3 code": "SWE",
+      "Numeric code": 752,
+      "ISO 3166-2": "ISO 3166-2:SE"
+   },
+   "Switzerland": {
+      "Alpha-2 code": "CH",
+      "Alpha-3 code": "CHE",
+      "Numeric code": 756,
+      "ISO 3166-2": "ISO 3166-2:CH"
+   },
+   "Syrian Arab Republic": {
+      "Alpha-2 code": "SY",
+      "Alpha-3 code": "SYR",
+      "Numeric code": 760,
+      "ISO 3166-2": "ISO 3166-2:SY"
+   },
+   "Taiwan, Province of China": {
+      "Alpha-2 code": "TW",
+      "Alpha-3 code": "TWN",
+      "Numeric code": 158,
+      "ISO 3166-2": "ISO 3166-2:TW"
+   },
+   "Tajikistan": {
+      "Alpha-2 code": "TJ",
+      "Alpha-3 code": "TJK",
+      "Numeric code": 762,
+      "ISO 3166-2": "ISO 3166-2:TJ"
+   },
+   "Tanzania, United Republic of": {
+      "Alpha-2 code": "TZ",
+      "Alpha-3 code": "TZA",
+      "Numeric code": 834,
+      "ISO 3166-2": "ISO 3166-2:TZ"
+   },
+   "Thailand": {
+      "Alpha-2 code": "TH",
+      "Alpha-3 code": "THA",
+      "Numeric code": 764,
+      "ISO 3166-2": "ISO 3166-2:TH"
+   },
+   "Timor-Leste": {
+      "Alpha-2 code": "TL",
+      "Alpha-3 code": "TLS",
+      "Numeric code": 626,
+      "ISO 3166-2": "ISO 3166-2:TL"
+   },
+   "Togo": {
+      "Alpha-2 code": "TG",
+      "Alpha-3 code": "TGO",
+      "Numeric code": 768,
+      "ISO 3166-2": "ISO 3166-2:TG"
+   },
+   "Tokelau": {
+      "Alpha-2 code": "TK",
+      "Alpha-3 code": "TKL",
+      "Numeric code": 772,
+      "ISO 3166-2": "ISO 3166-2:TK"
+   },
+   "Tonga": {
+      "Alpha-2 code": "TO",
+      "Alpha-3 code": "TON",
+      "Numeric code": 776,
+      "ISO 3166-2": "ISO 3166-2:TO"
+   },
+   "Trinidad and Tobago": {
+      "Alpha-2 code": "TT",
+      "Alpha-3 code": "TTO",
+      "Numeric code": 780,
+      "ISO 3166-2": "ISO 3166-2:TT"
+   },
+   "Tunisia": {
+      "Alpha-2 code": "TN",
+      "Alpha-3 code": "TUN",
+      "Numeric code": 788,
+      "ISO 3166-2": "ISO 3166-2:TN"
+   },
+   "Turkey": {
+      "Alpha-2 code": "TR",
+      "Alpha-3 code": "TUR",
+      "Numeric code": 792,
+      "ISO 3166-2": "ISO 3166-2:TR"
+   },
+   "Turkmenistan": {
+      "Alpha-2 code": "TM",
+      "Alpha-3 code": "TKM",
+      "Numeric code": 795,
+      "ISO 3166-2": "ISO 3166-2:TM"
+   },
+   "Turks and Caicos Islands": {
+      "Alpha-2 code": "TC",
+      "Alpha-3 code": "TCA",
+      "Numeric code": 796,
+      "ISO 3166-2": "ISO 3166-2:TC"
+   },
+   "Tuvalu": {
+      "Alpha-2 code": "TV",
+      "Alpha-3 code": "TUV",
+      "Numeric code": 798,
+      "ISO 3166-2": "ISO 3166-2:TV"
+   },
+   "Uganda": {
+      "Alpha-2 code": "UG",
+      "Alpha-3 code": "UGA",
+      "Numeric code": 800,
+      "ISO 3166-2": "ISO 3166-2:UG"
+   },
+   "Ukraine": {
+      "Alpha-2 code": "UA",
+      "Alpha-3 code": "UKR",
+      "Numeric code": 804,
+      "ISO 3166-2": "ISO 3166-2:UA"
+   },
+   "United Arab Emirates": {
+      "Alpha-2 code": "AE",
+      "Alpha-3 code": "ARE",
+      "Numeric code": 784,
+      "ISO 3166-2": "ISO 3166-2:AE"
+   },
+   "United Kingdom": {
+      "Alpha-2 code": "GB",
+      "Alpha-3 code": "GBR",
+      "Numeric code": 826,
+      "ISO 3166-2": "ISO 3166-2:GB"
+   },
+   "United States": {
+      "Alpha-2 code": "US",
+      "Alpha-3 code": "USA",
+      "Numeric code": 840,
+      "ISO 3166-2": "ISO 3166-2:US"
+   },
+   "United States Minor Outlying Islands": {
+      "Alpha-2 code": "UM",
+      "Alpha-3 code": "UMI",
+      "Numeric code": 581,
+      "ISO 3166-2": "ISO 3166-2:UM"
+   },
+   "Uruguay": {
+      "Alpha-2 code": "UY",
+      "Alpha-3 code": "URY",
+      "Numeric code": 858,
+      "ISO 3166-2": "ISO 3166-2:UY"
+   },
+   "Uzbekistan": {
+      "Alpha-2 code": "UZ",
+      "Alpha-3 code": "UZB",
+      "Numeric code": 860,
+      "ISO 3166-2": "ISO 3166-2:UZ"
+   },
+   "Vanuatu": {
+      "Alpha-2 code": "VU",
+      "Alpha-3 code": "VUT",
+      "Numeric code": 548,
+      "ISO 3166-2": "ISO 3166-2:VU"
+   },
+   "Venezuela, Bolivarian Republic of": {
+      "Alpha-2 code": "VE",
+      "Alpha-3 code": "VEN",
+      "Numeric code": 862,
+      "ISO 3166-2": "ISO 3166-2:VE"
+   },
+   "Viet Nam": {
+      "Alpha-2 code": "VN",
+      "Alpha-3 code": "VNM",
+      "Numeric code": 704,
+      "ISO 3166-2": "ISO 3166-2:VN"
+   },
+   "Virgin Islands, British": {
+      "Alpha-2 code": "VG",
+      "Alpha-3 code": "VGB",
+      "Numeric code": 92,
+      "ISO 3166-2": "ISO 3166-2:VG"
+   },
+   "Virgin Islands, U.S.": {
+      "Alpha-2 code": "VI",
+      "Alpha-3 code": "VIR",
+      "Numeric code": 850,
+      "ISO 3166-2": "ISO 3166-2:VI"
+   },
+   "Wallis and Futuna": {
+      "Alpha-2 code": "WF",
+      "Alpha-3 code": "WLF",
+      "Numeric code": 876,
+      "ISO 3166-2": "ISO 3166-2:WF"
+   },
+   "Western Sahara": {
+      "Alpha-2 code": "EH",
+      "Alpha-3 code": "ESH",
+      "Numeric code": 732,
+      "ISO 3166-2": "ISO 3166-2:EH"
+   },
+   "Yemen": {
+      "Alpha-2 code": "YE",
+      "Alpha-3 code": "YEM",
+      "Numeric code": 887,
+      "ISO 3166-2": "ISO 3166-2:YE"
+   },
+   "Zambia": {
+      "Alpha-2 code": "ZM",
+      "Alpha-3 code": "ZMB",
+      "Numeric code": 894,
+      "ISO 3166-2": "ISO 3166-2:ZM"
+   },
+   "Zimbabwe": {
+      "Alpha-2 code": "ZW",
+      "Alpha-3 code": "ZWE",
+      "Numeric code": 716,
+      "ISO 3166-2": "ISO 3166-2:ZW"
+   }
+}
