@@ -4,6 +4,7 @@ import { useQuery, useQueryClient, QueryClient } from 'react-query';
 import axios from 'axios';
 import countryCodes from '../iso-code.json.json';
 import { GuessTheCountry } from './ButtonGrid';
+import { WEBCAMKEY } from '../apiKey';
 
 export const COUNTRY_KEYS = Object.keys(countryCodes);
 const COUNTRY_CODE = 'Alpha-2 code';
@@ -17,8 +18,7 @@ async function fetchCamLocation(location) {
       {
         headers: {
           'x-rapidapi-host': 'webcamstravel.p.rapidapi.com',
-          'x-rapidapi-key':
-            'aebc241aafmsh3296ab361549386p1bb5f2jsnd0af4391f39b',
+          'x-rapidapi-key': WEBCAMKEY,
         },
       },
     )
