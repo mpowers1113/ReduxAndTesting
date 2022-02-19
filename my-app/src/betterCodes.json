@@ -1,0 +1,1724 @@
+[
+ {
+   "English short name lower case": "Afghanistan",
+   "Alpha-2 code": "AF",
+   "Alpha-3 code": "AFG",
+   "Numeric code": 4,
+   "ISO 3166-2": "ISO 3166-2:AF"
+ },
+ {
+   "English short name lower case": "Åland Islands",
+   "Alpha-2 code": "AX",
+   "Alpha-3 code": "ALA",
+   "Numeric code": 248,
+   "ISO 3166-2": "ISO 3166-2:AX"
+ },
+ {
+   "English short name lower case": "Albania",
+   "Alpha-2 code": "AL",
+   "Alpha-3 code": "ALB",
+   "Numeric code": 8,
+   "ISO 3166-2": "ISO 3166-2:AL"
+ },
+ {
+   "English short name lower case": "Algeria",
+   "Alpha-2 code": "DZ",
+   "Alpha-3 code": "DZA",
+   "Numeric code": 12,
+   "ISO 3166-2": "ISO 3166-2:DZ"
+ },
+ {
+   "English short name lower case": "American Samoa",
+   "Alpha-2 code": "AS",
+   "Alpha-3 code": "ASM",
+   "Numeric code": 16,
+   "ISO 3166-2": "ISO 3166-2:AS"
+ },
+ {
+   "English short name lower case": "Andorra",
+   "Alpha-2 code": "AD",
+   "Alpha-3 code": "AND",
+   "Numeric code": 20,
+   "ISO 3166-2": "ISO 3166-2:AD"
+ },
+ {
+   "English short name lower case": "Angola",
+   "Alpha-2 code": "AO",
+   "Alpha-3 code": "AGO",
+   "Numeric code": 24,
+   "ISO 3166-2": "ISO 3166-2:AO"
+ },
+ {
+   "English short name lower case": "Anguilla",
+   "Alpha-2 code": "AI",
+   "Alpha-3 code": "AIA",
+   "Numeric code": 660,
+   "ISO 3166-2": "ISO 3166-2:AI"
+ },
+ {
+   "English short name lower case": "Antarctica",
+   "Alpha-2 code": "AQ",
+   "Alpha-3 code": "ATA",
+   "Numeric code": 10,
+   "ISO 3166-2": "ISO 3166-2:AQ"
+ },
+ {
+   "English short name lower case": "Antigua and Barbuda",
+   "Alpha-2 code": "AG",
+   "Alpha-3 code": "ATG",
+   "Numeric code": 28,
+   "ISO 3166-2": "ISO 3166-2:AG"
+ },
+ {
+   "English short name lower case": "Argentina",
+   "Alpha-2 code": "AR",
+   "Alpha-3 code": "ARG",
+   "Numeric code": 32,
+   "ISO 3166-2": "ISO 3166-2:AR"
+ },
+ {
+   "English short name lower case": "Armenia",
+   "Alpha-2 code": "AM",
+   "Alpha-3 code": "ARM",
+   "Numeric code": 51,
+   "ISO 3166-2": "ISO 3166-2:AM"
+ },
+ {
+   "English short name lower case": "Aruba",
+   "Alpha-2 code": "AW",
+   "Alpha-3 code": "ABW",
+   "Numeric code": 533,
+   "ISO 3166-2": "ISO 3166-2:AW"
+ },
+ {
+   "English short name lower case": "Australia",
+   "Alpha-2 code": "AU",
+   "Alpha-3 code": "AUS",
+   "Numeric code": 36,
+   "ISO 3166-2": "ISO 3166-2:AU"
+ },
+ {
+   "English short name lower case": "Austria",
+   "Alpha-2 code": "AT",
+   "Alpha-3 code": "AUT",
+   "Numeric code": 40,
+   "ISO 3166-2": "ISO 3166-2:AT"
+ },
+ {
+   "English short name lower case": "Azerbaijan",
+   "Alpha-2 code": "AZ",
+   "Alpha-3 code": "AZE",
+   "Numeric code": 31,
+   "ISO 3166-2": "ISO 3166-2:AZ"
+ },
+ {
+   "English short name lower case": "Bahamas",
+   "Alpha-2 code": "BS",
+   "Alpha-3 code": "BHS",
+   "Numeric code": 44,
+   "ISO 3166-2": "ISO 3166-2:BS"
+ },
+ {
+   "English short name lower case": "Bahrain",
+   "Alpha-2 code": "BH",
+   "Alpha-3 code": "BHR",
+   "Numeric code": 48,
+   "ISO 3166-2": "ISO 3166-2:BH"
+ },
+ {
+   "English short name lower case": "Bangladesh",
+   "Alpha-2 code": "BD",
+   "Alpha-3 code": "BGD",
+   "Numeric code": 50,
+   "ISO 3166-2": "ISO 3166-2:BD"
+ },
+ {
+   "English short name lower case": "Barbados",
+   "Alpha-2 code": "BB",
+   "Alpha-3 code": "BRB",
+   "Numeric code": 52,
+   "ISO 3166-2": "ISO 3166-2:BB"
+ },
+ {
+   "English short name lower case": "Belarus",
+   "Alpha-2 code": "BY",
+   "Alpha-3 code": "BLR",
+   "Numeric code": 112,
+   "ISO 3166-2": "ISO 3166-2:BY"
+ },
+ {
+   "English short name lower case": "Belgium",
+   "Alpha-2 code": "BE",
+   "Alpha-3 code": "BEL",
+   "Numeric code": 56,
+   "ISO 3166-2": "ISO 3166-2:BE"
+ },
+ {
+   "English short name lower case": "Belize",
+   "Alpha-2 code": "BZ",
+   "Alpha-3 code": "BLZ",
+   "Numeric code": 84,
+   "ISO 3166-2": "ISO 3166-2:BZ"
+ },
+ {
+   "English short name lower case": "Benin",
+   "Alpha-2 code": "BJ",
+   "Alpha-3 code": "BEN",
+   "Numeric code": 204,
+   "ISO 3166-2": "ISO 3166-2:BJ"
+ },
+ {
+   "English short name lower case": "Bermuda",
+   "Alpha-2 code": "BM",
+   "Alpha-3 code": "BMU",
+   "Numeric code": 60,
+   "ISO 3166-2": "ISO 3166-2:BM"
+ },
+ {
+   "English short name lower case": "Bhutan",
+   "Alpha-2 code": "BT",
+   "Alpha-3 code": "BTN",
+   "Numeric code": 64,
+   "ISO 3166-2": "ISO 3166-2:BT"
+ },
+ {
+   "English short name lower case": "Bolivia, Plurinational State of",
+   "Alpha-2 code": "BO",
+   "Alpha-3 code": "BOL",
+   "Numeric code": 68,
+   "ISO 3166-2": "ISO 3166-2:BO"
+ },
+ {
+   "English short name lower case": "Bosnia and Herzegovina",
+   "Alpha-2 code": "BA",
+   "Alpha-3 code": "BIH",
+   "Numeric code": 70,
+   "ISO 3166-2": "ISO 3166-2:BA"
+ },
+ {
+   "English short name lower case": "Botswana",
+   "Alpha-2 code": "BW",
+   "Alpha-3 code": "BWA",
+   "Numeric code": 72,
+   "ISO 3166-2": "ISO 3166-2:BW"
+ },
+ {
+   "English short name lower case": "Bouvet Island",
+   "Alpha-2 code": "BV",
+   "Alpha-3 code": "BVT",
+   "Numeric code": 74,
+   "ISO 3166-2": "ISO 3166-2:BV"
+ },
+ {
+   "English short name lower case": "Brazil",
+   "Alpha-2 code": "BR",
+   "Alpha-3 code": "BRA",
+   "Numeric code": 76,
+   "ISO 3166-2": "ISO 3166-2:BR"
+ },
+ {
+   "English short name lower case": "British Indian Ocean Territory",
+   "Alpha-2 code": "IO",
+   "Alpha-3 code": "IOT",
+   "Numeric code": 86,
+   "ISO 3166-2": "ISO 3166-2:IO"
+ },
+ {
+   "English short name lower case": "Brunei Darussalam",
+   "Alpha-2 code": "BN",
+   "Alpha-3 code": "BRN",
+   "Numeric code": 96,
+   "ISO 3166-2": "ISO 3166-2:BN"
+ },
+ {
+   "English short name lower case": "Bulgaria",
+   "Alpha-2 code": "BG",
+   "Alpha-3 code": "BGR",
+   "Numeric code": 100,
+   "ISO 3166-2": "ISO 3166-2:BG"
+ },
+ {
+   "English short name lower case": "Burkina Faso",
+   "Alpha-2 code": "BF",
+   "Alpha-3 code": "BFA",
+   "Numeric code": 854,
+   "ISO 3166-2": "ISO 3166-2:BF"
+ },
+ {
+   "English short name lower case": "Burundi",
+   "Alpha-2 code": "BI",
+   "Alpha-3 code": "BDI",
+   "Numeric code": 108,
+   "ISO 3166-2": "ISO 3166-2:BI"
+ },
+ {
+   "English short name lower case": "Cambodia",
+   "Alpha-2 code": "KH",
+   "Alpha-3 code": "KHM",
+   "Numeric code": 116,
+   "ISO 3166-2": "ISO 3166-2:KH"
+ },
+ {
+   "English short name lower case": "Cameroon",
+   "Alpha-2 code": "CM",
+   "Alpha-3 code": "CMR",
+   "Numeric code": 120,
+   "ISO 3166-2": "ISO 3166-2:CM"
+ },
+ {
+   "English short name lower case": "Canada",
+   "Alpha-2 code": "CA",
+   "Alpha-3 code": "CAN",
+   "Numeric code": 124,
+   "ISO 3166-2": "ISO 3166-2:CA"
+ },
+ {
+   "English short name lower case": "Cape Verde",
+   "Alpha-2 code": "CV",
+   "Alpha-3 code": "CPV",
+   "Numeric code": 132,
+   "ISO 3166-2": "ISO 3166-2:CV"
+ },
+ {
+   "English short name lower case": "Cayman Islands",
+   "Alpha-2 code": "KY",
+   "Alpha-3 code": "CYM",
+   "Numeric code": 136,
+   "ISO 3166-2": "ISO 3166-2:KY"
+ },
+ {
+   "English short name lower case": "Central African Republic",
+   "Alpha-2 code": "CF",
+   "Alpha-3 code": "CAF",
+   "Numeric code": 140,
+   "ISO 3166-2": "ISO 3166-2:CF"
+ },
+ {
+   "English short name lower case": "Chad",
+   "Alpha-2 code": "TD",
+   "Alpha-3 code": "TCD",
+   "Numeric code": 148,
+   "ISO 3166-2": "ISO 3166-2:TD"
+ },
+ {
+   "English short name lower case": "Chile",
+   "Alpha-2 code": "CL",
+   "Alpha-3 code": "CHL",
+   "Numeric code": 152,
+   "ISO 3166-2": "ISO 3166-2:CL"
+ },
+ {
+   "English short name lower case": "China",
+   "Alpha-2 code": "CN",
+   "Alpha-3 code": "CHN",
+   "Numeric code": 156,
+   "ISO 3166-2": "ISO 3166-2:CN"
+ },
+ {
+   "English short name lower case": "Christmas Island",
+   "Alpha-2 code": "CX",
+   "Alpha-3 code": "CXR",
+   "Numeric code": 162,
+   "ISO 3166-2": "ISO 3166-2:CX"
+ },
+ {
+   "English short name lower case": "Cocos (Keeling) Islands",
+   "Alpha-2 code": "CC",
+   "Alpha-3 code": "CCK",
+   "Numeric code": 166,
+   "ISO 3166-2": "ISO 3166-2:CC"
+ },
+ {
+   "English short name lower case": "Colombia",
+   "Alpha-2 code": "CO",
+   "Alpha-3 code": "COL",
+   "Numeric code": 170,
+   "ISO 3166-2": "ISO 3166-2:CO"
+ },
+ {
+   "English short name lower case": "Comoros",
+   "Alpha-2 code": "KM",
+   "Alpha-3 code": "COM",
+   "Numeric code": 174,
+   "ISO 3166-2": "ISO 3166-2:KM"
+ },
+ {
+   "English short name lower case": "Congo",
+   "Alpha-2 code": "CG",
+   "Alpha-3 code": "COG",
+   "Numeric code": 178,
+   "ISO 3166-2": "ISO 3166-2:CG"
+ },
+ {
+   "English short name lower case": "Congo, the Democratic Republic of the",
+   "Alpha-2 code": "CD",
+   "Alpha-3 code": "COD",
+   "Numeric code": 180,
+   "ISO 3166-2": "ISO 3166-2:CD"
+ },
+ {
+   "English short name lower case": "Cook Islands",
+   "Alpha-2 code": "CK",
+   "Alpha-3 code": "COK",
+   "Numeric code": 184,
+   "ISO 3166-2": "ISO 3166-2:CK"
+ },
+ {
+   "English short name lower case": "Costa Rica",
+   "Alpha-2 code": "CR",
+   "Alpha-3 code": "CRI",
+   "Numeric code": 188,
+   "ISO 3166-2": "ISO 3166-2:CR"
+ },
+ {
+   "English short name lower case": "Côte d'Ivoire",
+   "Alpha-2 code": "CI",
+   "Alpha-3 code": "CIV",
+   "Numeric code": 384,
+   "ISO 3166-2": "ISO 3166-2:CI"
+ },
+ {
+   "English short name lower case": "Croatia",
+   "Alpha-2 code": "HR",
+   "Alpha-3 code": "HRV",
+   "Numeric code": 191,
+   "ISO 3166-2": "ISO 3166-2:HR"
+ },
+ {
+   "English short name lower case": "Cuba",
+   "Alpha-2 code": "CU",
+   "Alpha-3 code": "CUB",
+   "Numeric code": 192,
+   "ISO 3166-2": "ISO 3166-2:CU"
+ },
+ {
+   "English short name lower case": "Cyprus",
+   "Alpha-2 code": "CY",
+   "Alpha-3 code": "CYP",
+   "Numeric code": 196,
+   "ISO 3166-2": "ISO 3166-2:CY"
+ },
+ {
+   "English short name lower case": "Czech Republic",
+   "Alpha-2 code": "CZ",
+   "Alpha-3 code": "CZE",
+   "Numeric code": 203,
+   "ISO 3166-2": "ISO 3166-2:CZ"
+ },
+ {
+   "English short name lower case": "Denmark",
+   "Alpha-2 code": "DK",
+   "Alpha-3 code": "DNK",
+   "Numeric code": 208,
+   "ISO 3166-2": "ISO 3166-2:DK"
+ },
+ {
+   "English short name lower case": "Djibouti",
+   "Alpha-2 code": "DJ",
+   "Alpha-3 code": "DJI",
+   "Numeric code": 262,
+   "ISO 3166-2": "ISO 3166-2:DJ"
+ },
+ {
+   "English short name lower case": "Dominica",
+   "Alpha-2 code": "DM",
+   "Alpha-3 code": "DMA",
+   "Numeric code": 212,
+   "ISO 3166-2": "ISO 3166-2:DM"
+ },
+ {
+   "English short name lower case": "Dominican Republic",
+   "Alpha-2 code": "DO",
+   "Alpha-3 code": "DOM",
+   "Numeric code": 214,
+   "ISO 3166-2": "ISO 3166-2:DO"
+ },
+ {
+   "English short name lower case": "Ecuador",
+   "Alpha-2 code": "EC",
+   "Alpha-3 code": "ECU",
+   "Numeric code": 218,
+   "ISO 3166-2": "ISO 3166-2:EC"
+ },
+ {
+   "English short name lower case": "Egypt",
+   "Alpha-2 code": "EG",
+   "Alpha-3 code": "EGY",
+   "Numeric code": 818,
+   "ISO 3166-2": "ISO 3166-2:EG"
+ },
+ {
+   "English short name lower case": "El Salvador",
+   "Alpha-2 code": "SV",
+   "Alpha-3 code": "SLV",
+   "Numeric code": 222,
+   "ISO 3166-2": "ISO 3166-2:SV"
+ },
+ {
+   "English short name lower case": "Equatorial Guinea",
+   "Alpha-2 code": "GQ",
+   "Alpha-3 code": "GNQ",
+   "Numeric code": 226,
+   "ISO 3166-2": "ISO 3166-2:GQ"
+ },
+ {
+   "English short name lower case": "Eritrea",
+   "Alpha-2 code": "ER",
+   "Alpha-3 code": "ERI",
+   "Numeric code": 232,
+   "ISO 3166-2": "ISO 3166-2:ER"
+ },
+ {
+   "English short name lower case": "Estonia",
+   "Alpha-2 code": "EE",
+   "Alpha-3 code": "EST",
+   "Numeric code": 233,
+   "ISO 3166-2": "ISO 3166-2:EE"
+ },
+ {
+   "English short name lower case": "Ethiopia",
+   "Alpha-2 code": "ET",
+   "Alpha-3 code": "ETH",
+   "Numeric code": 231,
+   "ISO 3166-2": "ISO 3166-2:ET"
+ },
+ {
+   "English short name lower case": "Falkland Islands (Malvinas)",
+   "Alpha-2 code": "FK",
+   "Alpha-3 code": "FLK",
+   "Numeric code": 238,
+   "ISO 3166-2": "ISO 3166-2:FK"
+ },
+ {
+   "English short name lower case": "Faroe Islands",
+   "Alpha-2 code": "FO",
+   "Alpha-3 code": "FRO",
+   "Numeric code": 234,
+   "ISO 3166-2": "ISO 3166-2:FO"
+ },
+ {
+   "English short name lower case": "Fiji",
+   "Alpha-2 code": "FJ",
+   "Alpha-3 code": "FJI",
+   "Numeric code": 242,
+   "ISO 3166-2": "ISO 3166-2:FJ"
+ },
+ {
+   "English short name lower case": "Finland",
+   "Alpha-2 code": "FI",
+   "Alpha-3 code": "FIN",
+   "Numeric code": 246,
+   "ISO 3166-2": "ISO 3166-2:FI"
+ },
+ {
+   "English short name lower case": "France",
+   "Alpha-2 code": "FR",
+   "Alpha-3 code": "FRA",
+   "Numeric code": 250,
+   "ISO 3166-2": "ISO 3166-2:FR"
+ },
+ {
+   "English short name lower case": "French Guiana",
+   "Alpha-2 code": "GF",
+   "Alpha-3 code": "GUF",
+   "Numeric code": 254,
+   "ISO 3166-2": "ISO 3166-2:GF"
+ },
+ {
+   "English short name lower case": "French Polynesia",
+   "Alpha-2 code": "PF",
+   "Alpha-3 code": "PYF",
+   "Numeric code": 258,
+   "ISO 3166-2": "ISO 3166-2:PF"
+ },
+ {
+   "English short name lower case": "French Southern Territories",
+   "Alpha-2 code": "TF",
+   "Alpha-3 code": "ATF",
+   "Numeric code": 260,
+   "ISO 3166-2": "ISO 3166-2:TF"
+ },
+ {
+   "English short name lower case": "Gabon",
+   "Alpha-2 code": "GA",
+   "Alpha-3 code": "GAB",
+   "Numeric code": 266,
+   "ISO 3166-2": "ISO 3166-2:GA"
+ },
+ {
+   "English short name lower case": "Gambia",
+   "Alpha-2 code": "GM",
+   "Alpha-3 code": "GMB",
+   "Numeric code": 270,
+   "ISO 3166-2": "ISO 3166-2:GM"
+ },
+ {
+   "English short name lower case": "Georgia",
+   "Alpha-2 code": "GE",
+   "Alpha-3 code": "GEO",
+   "Numeric code": 268,
+   "ISO 3166-2": "ISO 3166-2:GE"
+ },
+ {
+   "English short name lower case": "Germany",
+   "Alpha-2 code": "DE",
+   "Alpha-3 code": "DEU",
+   "Numeric code": 276,
+   "ISO 3166-2": "ISO 3166-2:DE"
+ },
+ {
+   "English short name lower case": "Ghana",
+   "Alpha-2 code": "GH",
+   "Alpha-3 code": "GHA",
+   "Numeric code": 288,
+   "ISO 3166-2": "ISO 3166-2:GH"
+ },
+ {
+   "English short name lower case": "Gibraltar",
+   "Alpha-2 code": "GI",
+   "Alpha-3 code": "GIB",
+   "Numeric code": 292,
+   "ISO 3166-2": "ISO 3166-2:GI"
+ },
+ {
+   "English short name lower case": "Greece",
+   "Alpha-2 code": "GR",
+   "Alpha-3 code": "GRC",
+   "Numeric code": 300,
+   "ISO 3166-2": "ISO 3166-2:GR"
+ },
+ {
+   "English short name lower case": "Greenland",
+   "Alpha-2 code": "GL",
+   "Alpha-3 code": "GRL",
+   "Numeric code": 304,
+   "ISO 3166-2": "ISO 3166-2:GL"
+ },
+ {
+   "English short name lower case": "Grenada",
+   "Alpha-2 code": "GD",
+   "Alpha-3 code": "GRD",
+   "Numeric code": 308,
+   "ISO 3166-2": "ISO 3166-2:GD"
+ },
+ {
+   "English short name lower case": "Guadeloupe",
+   "Alpha-2 code": "GP",
+   "Alpha-3 code": "GLP",
+   "Numeric code": 312,
+   "ISO 3166-2": "ISO 3166-2:GP"
+ },
+ {
+   "English short name lower case": "Guam",
+   "Alpha-2 code": "GU",
+   "Alpha-3 code": "GUM",
+   "Numeric code": 316,
+   "ISO 3166-2": "ISO 3166-2:GU"
+ },
+ {
+   "English short name lower case": "Guatemala",
+   "Alpha-2 code": "GT",
+   "Alpha-3 code": "GTM",
+   "Numeric code": 320,
+   "ISO 3166-2": "ISO 3166-2:GT"
+ },
+ {
+   "English short name lower case": "Guernsey",
+   "Alpha-2 code": "GG",
+   "Alpha-3 code": "GGY",
+   "Numeric code": 831,
+   "ISO 3166-2": "ISO 3166-2:GG"
+ },
+ {
+   "English short name lower case": "Guinea",
+   "Alpha-2 code": "GN",
+   "Alpha-3 code": "GIN",
+   "Numeric code": 324,
+   "ISO 3166-2": "ISO 3166-2:GN"
+ },
+ {
+   "English short name lower case": "Guinea-Bissau",
+   "Alpha-2 code": "GW",
+   "Alpha-3 code": "GNB",
+   "Numeric code": 624,
+   "ISO 3166-2": "ISO 3166-2:GW"
+ },
+ {
+   "English short name lower case": "Guyana",
+   "Alpha-2 code": "GY",
+   "Alpha-3 code": "GUY",
+   "Numeric code": 328,
+   "ISO 3166-2": "ISO 3166-2:GY"
+ },
+ {
+   "English short name lower case": "Haiti",
+   "Alpha-2 code": "HT",
+   "Alpha-3 code": "HTI",
+   "Numeric code": 332,
+   "ISO 3166-2": "ISO 3166-2:HT"
+ },
+ {
+   "English short name lower case": "Heard Island and McDonald Islands",
+   "Alpha-2 code": "HM",
+   "Alpha-3 code": "HMD",
+   "Numeric code": 334,
+   "ISO 3166-2": "ISO 3166-2:HM"
+ },
+ {
+   "English short name lower case": "Holy See (Vatican City State)",
+   "Alpha-2 code": "VA",
+   "Alpha-3 code": "VAT",
+   "Numeric code": 336,
+   "ISO 3166-2": "ISO 3166-2:VA"
+ },
+ {
+   "English short name lower case": "Honduras",
+   "Alpha-2 code": "HN",
+   "Alpha-3 code": "HND",
+   "Numeric code": 340,
+   "ISO 3166-2": "ISO 3166-2:HN"
+ },
+ {
+   "English short name lower case": "Hong Kong",
+   "Alpha-2 code": "HK",
+   "Alpha-3 code": "HKG",
+   "Numeric code": 344,
+   "ISO 3166-2": "ISO 3166-2:HK"
+ },
+ {
+   "English short name lower case": "Hungary",
+   "Alpha-2 code": "HU",
+   "Alpha-3 code": "HUN",
+   "Numeric code": 348,
+   "ISO 3166-2": "ISO 3166-2:HU"
+ },
+ {
+   "English short name lower case": "Iceland",
+   "Alpha-2 code": "IS",
+   "Alpha-3 code": "ISL",
+   "Numeric code": 352,
+   "ISO 3166-2": "ISO 3166-2:IS"
+ },
+ {
+   "English short name lower case": "India",
+   "Alpha-2 code": "IN",
+   "Alpha-3 code": "IND",
+   "Numeric code": 356,
+   "ISO 3166-2": "ISO 3166-2:IN"
+ },
+ {
+   "English short name lower case": "Indonesia",
+   "Alpha-2 code": "ID",
+   "Alpha-3 code": "IDN",
+   "Numeric code": 360,
+   "ISO 3166-2": "ISO 3166-2:ID"
+ },
+ {
+   "English short name lower case": "Iran, Islamic Republic of",
+   "Alpha-2 code": "IR",
+   "Alpha-3 code": "IRN",
+   "Numeric code": 364,
+   "ISO 3166-2": "ISO 3166-2:IR"
+ },
+ {
+   "English short name lower case": "Iraq",
+   "Alpha-2 code": "IQ",
+   "Alpha-3 code": "IRQ",
+   "Numeric code": 368,
+   "ISO 3166-2": "ISO 3166-2:IQ"
+ },
+ {
+   "English short name lower case": "Ireland",
+   "Alpha-2 code": "IE",
+   "Alpha-3 code": "IRL",
+   "Numeric code": 372,
+   "ISO 3166-2": "ISO 3166-2:IE"
+ },
+ {
+   "English short name lower case": "Isle of Man",
+   "Alpha-2 code": "IM",
+   "Alpha-3 code": "IMN",
+   "Numeric code": 833,
+   "ISO 3166-2": "ISO 3166-2:IM"
+ },
+ {
+   "English short name lower case": "Israel",
+   "Alpha-2 code": "IL",
+   "Alpha-3 code": "ISR",
+   "Numeric code": 376,
+   "ISO 3166-2": "ISO 3166-2:IL"
+ },
+ {
+   "English short name lower case": "Italy",
+   "Alpha-2 code": "IT",
+   "Alpha-3 code": "ITA",
+   "Numeric code": 380,
+   "ISO 3166-2": "ISO 3166-2:IT"
+ },
+ {
+   "English short name lower case": "Jamaica",
+   "Alpha-2 code": "JM",
+   "Alpha-3 code": "JAM",
+   "Numeric code": 388,
+   "ISO 3166-2": "ISO 3166-2:JM"
+ },
+ {
+   "English short name lower case": "Japan",
+   "Alpha-2 code": "JP",
+   "Alpha-3 code": "JPN",
+   "Numeric code": 392,
+   "ISO 3166-2": "ISO 3166-2:JP"
+ },
+ {
+   "English short name lower case": "Jersey",
+   "Alpha-2 code": "JE",
+   "Alpha-3 code": "JEY",
+   "Numeric code": 832,
+   "ISO 3166-2": "ISO 3166-2:JE"
+ },
+ {
+   "English short name lower case": "Jordan",
+   "Alpha-2 code": "JO",
+   "Alpha-3 code": "JOR",
+   "Numeric code": 400,
+   "ISO 3166-2": "ISO 3166-2:JO"
+ },
+ {
+   "English short name lower case": "Kazakhstan",
+   "Alpha-2 code": "KZ",
+   "Alpha-3 code": "KAZ",
+   "Numeric code": 398,
+   "ISO 3166-2": "ISO 3166-2:KZ"
+ },
+ {
+   "English short name lower case": "Kenya",
+   "Alpha-2 code": "KE",
+   "Alpha-3 code": "KEN",
+   "Numeric code": 404,
+   "ISO 3166-2": "ISO 3166-2:KE"
+ },
+ {
+   "English short name lower case": "Kiribati",
+   "Alpha-2 code": "KI",
+   "Alpha-3 code": "KIR",
+   "Numeric code": 296,
+   "ISO 3166-2": "ISO 3166-2:KI"
+ },
+ {
+   "English short name lower case": "Korea, Democratic People's Republic of",
+   "Alpha-2 code": "KP",
+   "Alpha-3 code": "PRK",
+   "Numeric code": 408,
+   "ISO 3166-2": "ISO 3166-2:KP"
+ },
+ {
+   "English short name lower case": "Korea, Republic of",
+   "Alpha-2 code": "KR",
+   "Alpha-3 code": "KOR",
+   "Numeric code": 410,
+   "ISO 3166-2": "ISO 3166-2:KR"
+ },
+ {
+   "English short name lower case": "Kuwait",
+   "Alpha-2 code": "KW",
+   "Alpha-3 code": "KWT",
+   "Numeric code": 414,
+   "ISO 3166-2": "ISO 3166-2:KW"
+ },
+ {
+   "English short name lower case": "Kyrgyzstan",
+   "Alpha-2 code": "KG",
+   "Alpha-3 code": "KGZ",
+   "Numeric code": 417,
+   "ISO 3166-2": "ISO 3166-2:KG"
+ },
+ {
+   "English short name lower case": "Lao People's Democratic Republic",
+   "Alpha-2 code": "LA",
+   "Alpha-3 code": "LAO",
+   "Numeric code": 418,
+   "ISO 3166-2": "ISO 3166-2:LA"
+ },
+ {
+   "English short name lower case": "Latvia",
+   "Alpha-2 code": "LV",
+   "Alpha-3 code": "LVA",
+   "Numeric code": 428,
+   "ISO 3166-2": "ISO 3166-2:LV"
+ },
+ {
+   "English short name lower case": "Lebanon",
+   "Alpha-2 code": "LB",
+   "Alpha-3 code": "LBN",
+   "Numeric code": 422,
+   "ISO 3166-2": "ISO 3166-2:LB"
+ },
+ {
+   "English short name lower case": "Lesotho",
+   "Alpha-2 code": "LS",
+   "Alpha-3 code": "LSO",
+   "Numeric code": 426,
+   "ISO 3166-2": "ISO 3166-2:LS"
+ },
+ {
+   "English short name lower case": "Liberia",
+   "Alpha-2 code": "LR",
+   "Alpha-3 code": "LBR",
+   "Numeric code": 430,
+   "ISO 3166-2": "ISO 3166-2:LR"
+ },
+ {
+   "English short name lower case": "Libyan Arab Jamahiriya",
+   "Alpha-2 code": "LY",
+   "Alpha-3 code": "LBY",
+   "Numeric code": 434,
+   "ISO 3166-2": "ISO 3166-2:LY"
+ },
+ {
+   "English short name lower case": "Liechtenstein",
+   "Alpha-2 code": "LI",
+   "Alpha-3 code": "LIE",
+   "Numeric code": 438,
+   "ISO 3166-2": "ISO 3166-2:LI"
+ },
+ {
+   "English short name lower case": "Lithuania",
+   "Alpha-2 code": "LT",
+   "Alpha-3 code": "LTU",
+   "Numeric code": 440,
+   "ISO 3166-2": "ISO 3166-2:LT"
+ },
+ {
+   "English short name lower case": "Luxembourg",
+   "Alpha-2 code": "LU",
+   "Alpha-3 code": "LUX",
+   "Numeric code": 442,
+   "ISO 3166-2": "ISO 3166-2:LU"
+ },
+ {
+   "English short name lower case": "Macao",
+   "Alpha-2 code": "MO",
+   "Alpha-3 code": "MAC",
+   "Numeric code": 446,
+   "ISO 3166-2": "ISO 3166-2:MO"
+ },
+ {
+   "English short name lower case": "Macedonia, the former Yugoslav Republic of",
+   "Alpha-2 code": "MK",
+   "Alpha-3 code": "MKD",
+   "Numeric code": 807,
+   "ISO 3166-2": "ISO 3166-2:MK"
+ },
+ {
+   "English short name lower case": "Madagascar",
+   "Alpha-2 code": "MG",
+   "Alpha-3 code": "MDG",
+   "Numeric code": 450,
+   "ISO 3166-2": "ISO 3166-2:MG"
+ },
+ {
+   "English short name lower case": "Malawi",
+   "Alpha-2 code": "MW",
+   "Alpha-3 code": "MWI",
+   "Numeric code": 454,
+   "ISO 3166-2": "ISO 3166-2:MW"
+ },
+ {
+   "English short name lower case": "Malaysia",
+   "Alpha-2 code": "MY",
+   "Alpha-3 code": "MYS",
+   "Numeric code": 458,
+   "ISO 3166-2": "ISO 3166-2:MY"
+ },
+ {
+   "English short name lower case": "Maldives",
+   "Alpha-2 code": "MV",
+   "Alpha-3 code": "MDV",
+   "Numeric code": 462,
+   "ISO 3166-2": "ISO 3166-2:MV"
+ },
+ {
+   "English short name lower case": "Mali",
+   "Alpha-2 code": "ML",
+   "Alpha-3 code": "MLI",
+   "Numeric code": 466,
+   "ISO 3166-2": "ISO 3166-2:ML"
+ },
+ {
+   "English short name lower case": "Malta",
+   "Alpha-2 code": "MT",
+   "Alpha-3 code": "MLT",
+   "Numeric code": 470,
+   "ISO 3166-2": "ISO 3166-2:MT"
+ },
+ {
+   "English short name lower case": "Marshall Islands",
+   "Alpha-2 code": "MH",
+   "Alpha-3 code": "MHL",
+   "Numeric code": 584,
+   "ISO 3166-2": "ISO 3166-2:MH"
+ },
+ {
+   "English short name lower case": "Martinique",
+   "Alpha-2 code": "MQ",
+   "Alpha-3 code": "MTQ",
+   "Numeric code": 474,
+   "ISO 3166-2": "ISO 3166-2:MQ"
+ },
+ {
+   "English short name lower case": "Mauritania",
+   "Alpha-2 code": "MR",
+   "Alpha-3 code": "MRT",
+   "Numeric code": 478,
+   "ISO 3166-2": "ISO 3166-2:MR"
+ },
+ {
+   "English short name lower case": "Mauritius",
+   "Alpha-2 code": "MU",
+   "Alpha-3 code": "MUS",
+   "Numeric code": 480,
+   "ISO 3166-2": "ISO 3166-2:MU"
+ },
+ {
+   "English short name lower case": "Mayotte",
+   "Alpha-2 code": "YT",
+   "Alpha-3 code": "MYT",
+   "Numeric code": 175,
+   "ISO 3166-2": "ISO 3166-2:YT"
+ },
+ {
+   "English short name lower case": "Mexico",
+   "Alpha-2 code": "MX",
+   "Alpha-3 code": "MEX",
+   "Numeric code": 484,
+   "ISO 3166-2": "ISO 3166-2:MX"
+ },
+ {
+   "English short name lower case": "Micronesia, Federated States of",
+   "Alpha-2 code": "FM",
+   "Alpha-3 code": "FSM",
+   "Numeric code": 583,
+   "ISO 3166-2": "ISO 3166-2:FM"
+ },
+ {
+   "English short name lower case": "Moldova, Republic of",
+   "Alpha-2 code": "MD",
+   "Alpha-3 code": "MDA",
+   "Numeric code": 498,
+   "ISO 3166-2": "ISO 3166-2:MD"
+ },
+ {
+   "English short name lower case": "Monaco",
+   "Alpha-2 code": "MC",
+   "Alpha-3 code": "MCO",
+   "Numeric code": 492,
+   "ISO 3166-2": "ISO 3166-2:MC"
+ },
+ {
+   "English short name lower case": "Mongolia",
+   "Alpha-2 code": "MN",
+   "Alpha-3 code": "MNG",
+   "Numeric code": 496,
+   "ISO 3166-2": "ISO 3166-2:MN"
+ },
+ {
+   "English short name lower case": "Montenegro",
+   "Alpha-2 code": "ME",
+   "Alpha-3 code": "MNE",
+   "Numeric code": 499,
+   "ISO 3166-2": "ISO 3166-2:ME"
+ },
+ {
+   "English short name lower case": "Montserrat",
+   "Alpha-2 code": "MS",
+   "Alpha-3 code": "MSR",
+   "Numeric code": 500,
+   "ISO 3166-2": "ISO 3166-2:MS"
+ },
+ {
+   "English short name lower case": "Morocco",
+   "Alpha-2 code": "MA",
+   "Alpha-3 code": "MAR",
+   "Numeric code": 504,
+   "ISO 3166-2": "ISO 3166-2:MA"
+ },
+ {
+   "English short name lower case": "Mozambique",
+   "Alpha-2 code": "MZ",
+   "Alpha-3 code": "MOZ",
+   "Numeric code": 508,
+   "ISO 3166-2": "ISO 3166-2:MZ"
+ },
+ {
+   "English short name lower case": "Myanmar",
+   "Alpha-2 code": "MM",
+   "Alpha-3 code": "MMR",
+   "Numeric code": 104,
+   "ISO 3166-2": "ISO 3166-2:MM"
+ },
+ {
+   "English short name lower case": "Namibia",
+   "Alpha-2 code": "NA",
+   "Alpha-3 code": "NAM",
+   "Numeric code": 516,
+   "ISO 3166-2": "ISO 3166-2:NA"
+ },
+ {
+   "English short name lower case": "Nauru",
+   "Alpha-2 code": "NR",
+   "Alpha-3 code": "NRU",
+   "Numeric code": 520,
+   "ISO 3166-2": "ISO 3166-2:NR"
+ },
+ {
+   "English short name lower case": "Nepal",
+   "Alpha-2 code": "NP",
+   "Alpha-3 code": "NPL",
+   "Numeric code": 524,
+   "ISO 3166-2": "ISO 3166-2:NP"
+ },
+ {
+   "English short name lower case": "Netherlands",
+   "Alpha-2 code": "NL",
+   "Alpha-3 code": "NLD",
+   "Numeric code": 528,
+   "ISO 3166-2": "ISO 3166-2:NL"
+ },
+ {
+   "English short name lower case": "Netherlands Antilles",
+   "Alpha-2 code": "AN",
+   "Alpha-3 code": "ANT",
+   "Numeric code": 530,
+   "ISO 3166-2": "ISO 3166-2:AN"
+ },
+ {
+   "English short name lower case": "New Caledonia",
+   "Alpha-2 code": "NC",
+   "Alpha-3 code": "NCL",
+   "Numeric code": 540,
+   "ISO 3166-2": "ISO 3166-2:NC"
+ },
+ {
+   "English short name lower case": "New Zealand",
+   "Alpha-2 code": "NZ",
+   "Alpha-3 code": "NZL",
+   "Numeric code": 554,
+   "ISO 3166-2": "ISO 3166-2:NZ"
+ },
+ {
+   "English short name lower case": "Nicaragua",
+   "Alpha-2 code": "NI",
+   "Alpha-3 code": "NIC",
+   "Numeric code": 558,
+   "ISO 3166-2": "ISO 3166-2:NI"
+ },
+ {
+   "English short name lower case": "Niger",
+   "Alpha-2 code": "NE",
+   "Alpha-3 code": "NER",
+   "Numeric code": 562,
+   "ISO 3166-2": "ISO 3166-2:NE"
+ },
+ {
+   "English short name lower case": "Nigeria",
+   "Alpha-2 code": "NG",
+   "Alpha-3 code": "NGA",
+   "Numeric code": 566,
+   "ISO 3166-2": "ISO 3166-2:NG"
+ },
+ {
+   "English short name lower case": "Niue",
+   "Alpha-2 code": "NU",
+   "Alpha-3 code": "NIU",
+   "Numeric code": 570,
+   "ISO 3166-2": "ISO 3166-2:NU"
+ },
+ {
+   "English short name lower case": "Norfolk Island",
+   "Alpha-2 code": "NF",
+   "Alpha-3 code": "NFK",
+   "Numeric code": 574,
+   "ISO 3166-2": "ISO 3166-2:NF"
+ },
+ {
+   "English short name lower case": "Northern Mariana Islands",
+   "Alpha-2 code": "MP",
+   "Alpha-3 code": "MNP",
+   "Numeric code": 580,
+   "ISO 3166-2": "ISO 3166-2:MP"
+ },
+ {
+   "English short name lower case": "Norway",
+   "Alpha-2 code": "NO",
+   "Alpha-3 code": "NOR",
+   "Numeric code": 578,
+   "ISO 3166-2": "ISO 3166-2:NO"
+ },
+ {
+   "English short name lower case": "Oman",
+   "Alpha-2 code": "OM",
+   "Alpha-3 code": "OMN",
+   "Numeric code": 512,
+   "ISO 3166-2": "ISO 3166-2:OM"
+ },
+ {
+   "English short name lower case": "Pakistan",
+   "Alpha-2 code": "PK",
+   "Alpha-3 code": "PAK",
+   "Numeric code": 586,
+   "ISO 3166-2": "ISO 3166-2:PK"
+ },
+ {
+   "English short name lower case": "Palau",
+   "Alpha-2 code": "PW",
+   "Alpha-3 code": "PLW",
+   "Numeric code": 585,
+   "ISO 3166-2": "ISO 3166-2:PW"
+ },
+ {
+   "English short name lower case": "Palestinian Territory, Occupied",
+   "Alpha-2 code": "PS",
+   "Alpha-3 code": "PSE",
+   "Numeric code": 275,
+   "ISO 3166-2": "ISO 3166-2:PS"
+ },
+ {
+   "English short name lower case": "Panama",
+   "Alpha-2 code": "PA",
+   "Alpha-3 code": "PAN",
+   "Numeric code": 591,
+   "ISO 3166-2": "ISO 3166-2:PA"
+ },
+ {
+   "English short name lower case": "Papua New Guinea",
+   "Alpha-2 code": "PG",
+   "Alpha-3 code": "PNG",
+   "Numeric code": 598,
+   "ISO 3166-2": "ISO 3166-2:PG"
+ },
+ {
+   "English short name lower case": "Paraguay",
+   "Alpha-2 code": "PY",
+   "Alpha-3 code": "PRY",
+   "Numeric code": 600,
+   "ISO 3166-2": "ISO 3166-2:PY"
+ },
+ {
+   "English short name lower case": "Peru",
+   "Alpha-2 code": "PE",
+   "Alpha-3 code": "PER",
+   "Numeric code": 604,
+   "ISO 3166-2": "ISO 3166-2:PE"
+ },
+ {
+   "English short name lower case": "Philippines",
+   "Alpha-2 code": "PH",
+   "Alpha-3 code": "PHL",
+   "Numeric code": 608,
+   "ISO 3166-2": "ISO 3166-2:PH"
+ },
+ {
+   "English short name lower case": "Pitcairn",
+   "Alpha-2 code": "PN",
+   "Alpha-3 code": "PCN",
+   "Numeric code": 612,
+   "ISO 3166-2": "ISO 3166-2:PN"
+ },
+ {
+   "English short name lower case": "Poland",
+   "Alpha-2 code": "PL",
+   "Alpha-3 code": "POL",
+   "Numeric code": 616,
+   "ISO 3166-2": "ISO 3166-2:PL"
+ },
+ {
+   "English short name lower case": "Portugal",
+   "Alpha-2 code": "PT",
+   "Alpha-3 code": "PRT",
+   "Numeric code": 620,
+   "ISO 3166-2": "ISO 3166-2:PT"
+ },
+ {
+   "English short name lower case": "Puerto Rico",
+   "Alpha-2 code": "PR",
+   "Alpha-3 code": "PRI",
+   "Numeric code": 630,
+   "ISO 3166-2": "ISO 3166-2:PR"
+ },
+ {
+   "English short name lower case": "Qatar",
+   "Alpha-2 code": "QA",
+   "Alpha-3 code": "QAT",
+   "Numeric code": 634,
+   "ISO 3166-2": "ISO 3166-2:QA"
+ },
+ {
+   "English short name lower case": "Réunion",
+   "Alpha-2 code": "RE",
+   "Alpha-3 code": "REU",
+   "Numeric code": 638,
+   "ISO 3166-2": "ISO 3166-2:RE"
+ },
+ {
+   "English short name lower case": "Romania",
+   "Alpha-2 code": "RO",
+   "Alpha-3 code": "ROU",
+   "Numeric code": 642,
+   "ISO 3166-2": "ISO 3166-2:RO"
+ },
+ {
+   "English short name lower case": "Russian Federation",
+   "Alpha-2 code": "RU",
+   "Alpha-3 code": "RUS",
+   "Numeric code": 643,
+   "ISO 3166-2": "ISO 3166-2:RU"
+ },
+ {
+   "English short name lower case": "Rwanda",
+   "Alpha-2 code": "RW",
+   "Alpha-3 code": "RWA",
+   "Numeric code": 646,
+   "ISO 3166-2": "ISO 3166-2:RW"
+ },
+ {
+   "English short name lower case": "Saint Barthélemy",
+   "Alpha-2 code": "BL",
+   "Alpha-3 code": "BLM",
+   "Numeric code": 652,
+   "ISO 3166-2": "ISO 3166-2:BL"
+ },
+ {
+   "English short name lower case": "Saint Helena, Ascension and Tristan da Cunha",
+   "Alpha-2 code": "SH",
+   "Alpha-3 code": "SHN",
+   "Numeric code": 654,
+   "ISO 3166-2": "ISO 3166-2:SH"
+ },
+ {
+   "English short name lower case": "Saint Kitts and Nevis",
+   "Alpha-2 code": "KN",
+   "Alpha-3 code": "KNA",
+   "Numeric code": 659,
+   "ISO 3166-2": "ISO 3166-2:KN"
+ },
+ {
+   "English short name lower case": "Saint Lucia",
+   "Alpha-2 code": "LC",
+   "Alpha-3 code": "LCA",
+   "Numeric code": 662,
+   "ISO 3166-2": "ISO 3166-2:LC"
+ },
+ {
+   "English short name lower case": "Saint Martin (French part)",
+   "Alpha-2 code": "MF",
+   "Alpha-3 code": "MAF",
+   "Numeric code": 663,
+   "ISO 3166-2": "ISO 3166-2:MF"
+ },
+ {
+   "English short name lower case": "Saint Pierre and Miquelon",
+   "Alpha-2 code": "PM",
+   "Alpha-3 code": "SPM",
+   "Numeric code": 666,
+   "ISO 3166-2": "ISO 3166-2:PM"
+ },
+ {
+   "English short name lower case": "Saint Vincent and the Grenadines",
+   "Alpha-2 code": "VC",
+   "Alpha-3 code": "VCT",
+   "Numeric code": 670,
+   "ISO 3166-2": "ISO 3166-2:VC"
+ },
+ {
+   "English short name lower case": "Samoa",
+   "Alpha-2 code": "WS",
+   "Alpha-3 code": "WSM",
+   "Numeric code": 882,
+   "ISO 3166-2": "ISO 3166-2:WS"
+ },
+ {
+   "English short name lower case": "San Marino",
+   "Alpha-2 code": "SM",
+   "Alpha-3 code": "SMR",
+   "Numeric code": 674,
+   "ISO 3166-2": "ISO 3166-2:SM"
+ },
+ {
+   "English short name lower case": "Sao Tome and Principe",
+   "Alpha-2 code": "ST",
+   "Alpha-3 code": "STP",
+   "Numeric code": 678,
+   "ISO 3166-2": "ISO 3166-2:ST"
+ },
+ {
+   "English short name lower case": "Saudi Arabia",
+   "Alpha-2 code": "SA",
+   "Alpha-3 code": "SAU",
+   "Numeric code": 682,
+   "ISO 3166-2": "ISO 3166-2:SA"
+ },
+ {
+   "English short name lower case": "Senegal",
+   "Alpha-2 code": "SN",
+   "Alpha-3 code": "SEN",
+   "Numeric code": 686,
+   "ISO 3166-2": "ISO 3166-2:SN"
+ },
+ {
+   "English short name lower case": "Serbia",
+   "Alpha-2 code": "RS",
+   "Alpha-3 code": "SRB",
+   "Numeric code": 688,
+   "ISO 3166-2": "ISO 3166-2:RS"
+ },
+ {
+   "English short name lower case": "Seychelles",
+   "Alpha-2 code": "SC",
+   "Alpha-3 code": "SYC",
+   "Numeric code": 690,
+   "ISO 3166-2": "ISO 3166-2:SC"
+ },
+ {
+   "English short name lower case": "Sierra Leone",
+   "Alpha-2 code": "SL",
+   "Alpha-3 code": "SLE",
+   "Numeric code": 694,
+   "ISO 3166-2": "ISO 3166-2:SL"
+ },
+ {
+   "English short name lower case": "Singapore",
+   "Alpha-2 code": "SG",
+   "Alpha-3 code": "SGP",
+   "Numeric code": 702,
+   "ISO 3166-2": "ISO 3166-2:SG"
+ },
+ {
+   "English short name lower case": "Slovakia",
+   "Alpha-2 code": "SK",
+   "Alpha-3 code": "SVK",
+   "Numeric code": 703,
+   "ISO 3166-2": "ISO 3166-2:SK"
+ },
+ {
+   "English short name lower case": "Slovenia",
+   "Alpha-2 code": "SI",
+   "Alpha-3 code": "SVN",
+   "Numeric code": 705,
+   "ISO 3166-2": "ISO 3166-2:SI"
+ },
+ {
+   "English short name lower case": "Solomon Islands",
+   "Alpha-2 code": "SB",
+   "Alpha-3 code": "SLB",
+   "Numeric code": 90,
+   "ISO 3166-2": "ISO 3166-2:SB"
+ },
+ {
+   "English short name lower case": "Somalia",
+   "Alpha-2 code": "SO",
+   "Alpha-3 code": "SOM",
+   "Numeric code": 706,
+   "ISO 3166-2": "ISO 3166-2:SO"
+ },
+ {
+   "English short name lower case": "South Africa",
+   "Alpha-2 code": "ZA",
+   "Alpha-3 code": "ZAF",
+   "Numeric code": 710,
+   "ISO 3166-2": "ISO 3166-2:ZA"
+ },
+ {
+   "English short name lower case": "South Georgia and the South Sandwich Islands",
+   "Alpha-2 code": "GS",
+   "Alpha-3 code": "SGS",
+   "Numeric code": 239,
+   "ISO 3166-2": "ISO 3166-2:GS"
+ },
+ {
+   "English short name lower case": "Spain",
+   "Alpha-2 code": "ES",
+   "Alpha-3 code": "ESP",
+   "Numeric code": 724,
+   "ISO 3166-2": "ISO 3166-2:ES"
+ },
+ {
+   "English short name lower case": "Sri Lanka",
+   "Alpha-2 code": "LK",
+   "Alpha-3 code": "LKA",
+   "Numeric code": 144,
+   "ISO 3166-2": "ISO 3166-2:LK"
+ },
+ {
+   "English short name lower case": "Sudan",
+   "Alpha-2 code": "SD",
+   "Alpha-3 code": "SDN",
+   "Numeric code": 736,
+   "ISO 3166-2": "ISO 3166-2:SD"
+ },
+ {
+   "English short name lower case": "Suriname",
+   "Alpha-2 code": "SR",
+   "Alpha-3 code": "SUR",
+   "Numeric code": 740,
+   "ISO 3166-2": "ISO 3166-2:SR"
+ },
+ {
+   "English short name lower case": "Svalbard and Jan Mayen",
+   "Alpha-2 code": "SJ",
+   "Alpha-3 code": "SJM",
+   "Numeric code": 744,
+   "ISO 3166-2": "ISO 3166-2:SJ"
+ },
+ {
+   "English short name lower case": "Swaziland",
+   "Alpha-2 code": "SZ",
+   "Alpha-3 code": "SWZ",
+   "Numeric code": 748,
+   "ISO 3166-2": "ISO 3166-2:SZ"
+ },
+ {
+   "English short name lower case": "Sweden",
+   "Alpha-2 code": "SE",
+   "Alpha-3 code": "SWE",
+   "Numeric code": 752,
+   "ISO 3166-2": "ISO 3166-2:SE"
+ },
+ {
+   "English short name lower case": "Switzerland",
+   "Alpha-2 code": "CH",
+   "Alpha-3 code": "CHE",
+   "Numeric code": 756,
+   "ISO 3166-2": "ISO 3166-2:CH"
+ },
+ {
+   "English short name lower case": "Syrian Arab Republic",
+   "Alpha-2 code": "SY",
+   "Alpha-3 code": "SYR",
+   "Numeric code": 760,
+   "ISO 3166-2": "ISO 3166-2:SY"
+ },
+ {
+   "English short name lower case": "Taiwan, Province of China",
+   "Alpha-2 code": "TW",
+   "Alpha-3 code": "TWN",
+   "Numeric code": 158,
+   "ISO 3166-2": "ISO 3166-2:TW"
+ },
+ {
+   "English short name lower case": "Tajikistan",
+   "Alpha-2 code": "TJ",
+   "Alpha-3 code": "TJK",
+   "Numeric code": 762,
+   "ISO 3166-2": "ISO 3166-2:TJ"
+ },
+ {
+   "English short name lower case": "Tanzania, United Republic of",
+   "Alpha-2 code": "TZ",
+   "Alpha-3 code": "TZA",
+   "Numeric code": 834,
+   "ISO 3166-2": "ISO 3166-2:TZ"
+ },
+ {
+   "English short name lower case": "Thailand",
+   "Alpha-2 code": "TH",
+   "Alpha-3 code": "THA",
+   "Numeric code": 764,
+   "ISO 3166-2": "ISO 3166-2:TH"
+ },
+ {
+   "English short name lower case": "Timor-Leste",
+   "Alpha-2 code": "TL",
+   "Alpha-3 code": "TLS",
+   "Numeric code": 626,
+   "ISO 3166-2": "ISO 3166-2:TL"
+ },
+ {
+   "English short name lower case": "Togo",
+   "Alpha-2 code": "TG",
+   "Alpha-3 code": "TGO",
+   "Numeric code": 768,
+   "ISO 3166-2": "ISO 3166-2:TG"
+ },
+ {
+   "English short name lower case": "Tokelau",
+   "Alpha-2 code": "TK",
+   "Alpha-3 code": "TKL",
+   "Numeric code": 772,
+   "ISO 3166-2": "ISO 3166-2:TK"
+ },
+ {
+   "English short name lower case": "Tonga",
+   "Alpha-2 code": "TO",
+   "Alpha-3 code": "TON",
+   "Numeric code": 776,
+   "ISO 3166-2": "ISO 3166-2:TO"
+ },
+ {
+   "English short name lower case": "Trinidad and Tobago",
+   "Alpha-2 code": "TT",
+   "Alpha-3 code": "TTO",
+   "Numeric code": 780,
+   "ISO 3166-2": "ISO 3166-2:TT"
+ },
+ {
+   "English short name lower case": "Tunisia",
+   "Alpha-2 code": "TN",
+   "Alpha-3 code": "TUN",
+   "Numeric code": 788,
+   "ISO 3166-2": "ISO 3166-2:TN"
+ },
+ {
+   "English short name lower case": "Turkey",
+   "Alpha-2 code": "TR",
+   "Alpha-3 code": "TUR",
+   "Numeric code": 792,
+   "ISO 3166-2": "ISO 3166-2:TR"
+ },
+ {
+   "English short name lower case": "Turkmenistan",
+   "Alpha-2 code": "TM",
+   "Alpha-3 code": "TKM",
+   "Numeric code": 795,
+   "ISO 3166-2": "ISO 3166-2:TM"
+ },
+ {
+   "English short name lower case": "Turks and Caicos Islands",
+   "Alpha-2 code": "TC",
+   "Alpha-3 code": "TCA",
+   "Numeric code": 796,
+   "ISO 3166-2": "ISO 3166-2:TC"
+ },
+ {
+   "English short name lower case": "Tuvalu",
+   "Alpha-2 code": "TV",
+   "Alpha-3 code": "TUV",
+   "Numeric code": 798,
+   "ISO 3166-2": "ISO 3166-2:TV"
+ },
+ {
+   "English short name lower case": "Uganda",
+   "Alpha-2 code": "UG",
+   "Alpha-3 code": "UGA",
+   "Numeric code": 800,
+   "ISO 3166-2": "ISO 3166-2:UG"
+ },
+ {
+   "English short name lower case": "Ukraine",
+   "Alpha-2 code": "UA",
+   "Alpha-3 code": "UKR",
+   "Numeric code": 804,
+   "ISO 3166-2": "ISO 3166-2:UA"
+ },
+ {
+   "English short name lower case": "United Arab Emirates",
+   "Alpha-2 code": "AE",
+   "Alpha-3 code": "ARE",
+   "Numeric code": 784,
+   "ISO 3166-2": "ISO 3166-2:AE"
+ },
+ {
+   "English short name lower case": "United Kingdom",
+   "Alpha-2 code": "GB",
+   "Alpha-3 code": "GBR",
+   "Numeric code": 826,
+   "ISO 3166-2": "ISO 3166-2:GB"
+ },
+ {
+   "English short name lower case": "United States",
+   "Alpha-2 code": "US",
+   "Alpha-3 code": "USA",
+   "Numeric code": 840,
+   "ISO 3166-2": "ISO 3166-2:US"
+ },
+ {
+   "English short name lower case": "United States Minor Outlying Islands",
+   "Alpha-2 code": "UM",
+   "Alpha-3 code": "UMI",
+   "Numeric code": 581,
+   "ISO 3166-2": "ISO 3166-2:UM"
+ },
+ {
+   "English short name lower case": "Uruguay",
+   "Alpha-2 code": "UY",
+   "Alpha-3 code": "URY",
+   "Numeric code": 858,
+   "ISO 3166-2": "ISO 3166-2:UY"
+ },
+ {
+   "English short name lower case": "Uzbekistan",
+   "Alpha-2 code": "UZ",
+   "Alpha-3 code": "UZB",
+   "Numeric code": 860,
+   "ISO 3166-2": "ISO 3166-2:UZ"
+ },
+ {
+   "English short name lower case": "Vanuatu",
+   "Alpha-2 code": "VU",
+   "Alpha-3 code": "VUT",
+   "Numeric code": 548,
+   "ISO 3166-2": "ISO 3166-2:VU"
+ },
+ {
+   "English short name lower case": "Venezuela, Bolivarian Republic of",
+   "Alpha-2 code": "VE",
+   "Alpha-3 code": "VEN",
+   "Numeric code": 862,
+   "ISO 3166-2": "ISO 3166-2:VE"
+ },
+ {
+   "English short name lower case": "Viet Nam",
+   "Alpha-2 code": "VN",
+   "Alpha-3 code": "VNM",
+   "Numeric code": 704,
+   "ISO 3166-2": "ISO 3166-2:VN"
+ },
+ {
+   "English short name lower case": "Virgin Islands, British",
+   "Alpha-2 code": "VG",
+   "Alpha-3 code": "VGB",
+   "Numeric code": 92,
+   "ISO 3166-2": "ISO 3166-2:VG"
+ },
+ {
+   "English short name lower case": "Virgin Islands, U.S.",
+   "Alpha-2 code": "VI",
+   "Alpha-3 code": "VIR",
+   "Numeric code": 850,
+   "ISO 3166-2": "ISO 3166-2:VI"
+ },
+ {
+   "English short name lower case": "Wallis and Futuna",
+   "Alpha-2 code": "WF",
+   "Alpha-3 code": "WLF",
+   "Numeric code": 876,
+   "ISO 3166-2": "ISO 3166-2:WF"
+ },
+ {
+   "English short name lower case": "Western Sahara",
+   "Alpha-2 code": "EH",
+   "Alpha-3 code": "ESH",
+   "Numeric code": 732,
+   "ISO 3166-2": "ISO 3166-2:EH"
+ },
+ {
+   "English short name lower case": "Yemen",
+   "Alpha-2 code": "YE",
+   "Alpha-3 code": "YEM",
+   "Numeric code": 887,
+   "ISO 3166-2": "ISO 3166-2:YE"
+ },
+ {
+   "English short name lower case": "Zambia",
+   "Alpha-2 code": "ZM",
+   "Alpha-3 code": "ZMB",
+   "Numeric code": 894,
+   "ISO 3166-2": "ISO 3166-2:ZM"
+ },
+ {
+   "English short name lower case": "Zimbabwe",
+   "Alpha-2 code": "ZW",
+   "Alpha-3 code": "ZWE",
+   "Numeric code": 716,
+   "ISO 3166-2": "ISO 3166-2:ZW"
+ }
+]
