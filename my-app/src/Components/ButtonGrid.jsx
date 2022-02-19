@@ -3,16 +3,24 @@ import { shuffle } from 'lodash';
 import { generateRandomCountry } from './WebCams';
 import { COUNTRY_KEYS } from './WebCams';
 
+const DEFAULT_BUTTON_CLASS =
+  'cursor-pointer border border-1 border-blue-200 text-center w-full p-4 sm:w-1/2 lg:w-1/3 text-gray-700 bg-blue-100 hover:bg-blue-200 focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500 rounded-lg';
+
+const INCORRECT_BUTTON_CLASS =
+  'cursor-pointer border border-1 border-red-200 text-center w-full p-4 sm:w-1/2 lg:w-1/3 text-gray-700 bg-red-100 hover:bg-red-200 focus:ring-1 focus:ring-red-500 focus:border-red-500 rounded-lg';
+
 export function GridButton({ id, checkIfCorrectHandler }) {
+  const [isIncorrect, setIsIncorrect] = useState(false);
   return (
-    <div className="m-0">
-      <button
-        id={id}
-        onClick={(e) => checkIfCorrectHandler(e.target.id)}
-        type="button"
-        className="relative inline-flex items-center px-7 py-4 rounded-l border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-        {id}
-      </button>
+    <div
+      className={!isIncorrect ? DEFAULT_BUTTON_CLASS : INCORRECT_BUTTON_CLASS}
+      id={id}
+      onClick={(e) => {
+        if (isIncorrect) return;
+        checkIfCorrectHandler(e.target.id);
+        setIsIncorrect(true);
+      }}>
+      {id}
     </div>
   );
 }
@@ -24,10 +32,11 @@ export function GuessTheCountry({
   setCurrentScore,
   currentScore,
 }) {
+  let availablePoints = 6;
   const countriesMap = {};
   let mapCount = 0;
 
-  while (mapCount < 8) {
+  while (mapCount < 5) {
     const country = countries[Math.floor(Math.random() * 246)];
     if (country in countriesMap === false) {
       countriesMap[country] = country;
@@ -41,94 +50,28 @@ export function GuessTheCountry({
 
   const checkIfCorrectHandler = (country) => {
     if (country === location) {
-      setCurrentScore(currentScore + 1);
+      setCurrentScore(currentScore + availablePoints);
       setLocation(generateRandomCountry(COUNTRY_KEYS));
+    } else {
+      availablePoints--;
     }
   };
 
   return (
     <>
-      <></>
       <>
-        <div className="grid grid-cols-3 auto-cols-auto place-items-center gap-0 mx-36 mt-4 mb-4 w-auto">
-          {postShuffle.map((place) => {
-            return (
-              <GridButton
-                key={place}
-                id={place}
-                checkIfCorrectHandler={checkIfCorrectHandler}
-              />
-            );
-          })}
-          {/* <div className="z-0 shadow-sm rounded-lg">
-            <button
-              id={postShuffle[0]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="relative inline-flex items-center px-7 py-4 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[0]}
-            </button>
-            <button
-              id={postShuffle[1]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="-ml-px inline-flex relative items-center px-7 py-4 border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[1]}
-            </button>
-            <button
-              id={postShuffle[2]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="-ml-px inline-flex relative items-center px-7 py-4 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[2]}
-            </button>
+        <div className="max-w-screen-xl mx-auto px-4 my-6">
+          <div className="-mx-4 flex flex-wrap">
+            {postShuffle.map((place) => {
+              return (
+                <GridButton
+                  key={place}
+                  id={place}
+                  checkIfCorrectHandler={checkIfCorrectHandler}
+                />
+              );
+            })}
           </div>
-          <div className=" z-0 shadow-sm rounded-lg">
-            <button
-              id={postShuffle[3]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="relative inline-flex items-center px-7 py-4 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[3]}
-            </button>
-            <button
-              id={postShuffle[4]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="-ml-px inline-flex relative items-center px-7 py-4 border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[4]}
-            </button>
-            <button
-              id={postShuffle[5]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="-ml-px inline-flex relative items-center px-7 py-4 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[5]}
-            </button>
-          </div>
-          <div className="z-0 shadow-sm rounded-lg">
-            <button
-              id={postShuffle[6]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="relative inline-flex items-center px-7 py-4 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[6]}
-            </button>
-            <button
-              id={postShuffle[7]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="-ml-px relative inline-flex  items-center px-7 py-4 border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[7]}
-            </button>
-            <button
-              id={postShuffle[8]}
-              onClick={(e) => checkIfCorrectHandler(e.target.id)}
-              type="button"
-              className="-ml-px relative inline-flex items-center px-7 py-4 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-gray-700 hover:bg-gray-50 focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500">
-              {postShuffle[8]}
-            </button>
-          </div> */}
         </div>
       </>
     </>

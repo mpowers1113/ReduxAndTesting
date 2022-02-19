@@ -222,7 +222,7 @@ export default function Home() {
           <main className="-mt-32">
             <div className="max-w-7xl mx-auto pb-12 px-4 sm:px-6 lg:px-8 min-h-screen">
               <div className="bg-white rounded-lg shadow px-5 py-6 sm:px-6">
-                <div className="overflow-auto border-4 border-dashed border-gray-200 rounded-lg h-full">
+                <div className="overflow-auto  rounded-lg h-full">
                   <TutorialReactQuery />
                 </div>
               </div>

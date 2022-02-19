@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/no-redundant-roles */
 import React, { useState } from 'react';
-import { useQuery, useQueryClient, QueryClient } from 'react-query';
+import { useQuery } from 'react-query';
 import axios from 'axios';
 import countryCodes from '../iso-code.json.json';
 import { GuessTheCountry } from './ButtonGrid';
@@ -32,17 +32,28 @@ export function UseWebCams({
   setCurrentScore,
   currentScore,
 }) {
-  console.log('from use web cams', location, 'country', country);
-
   const { isLoading, isError, data, error, isFetching } = useQuery(
     ['location', location],
     () => fetchCamLocation(location),
     {
       refetchOnWindowFocus: false,
+      staleTime: Infinity,
     },
   );
 
-  if (!isLoading) console.log(data);
+  const generateRandomCams = (arr) => {
+    let numCams = 0;
+    const arrIndexes = arr.length - 1;
+    const randomCamsArr = [];
+    while (numCams < 3 && numCams < arr.length) {
+      const randomIndex = Math.floor(Math.random() * arrIndexes);
+      randomCamsArr.push(arr[randomIndex]);
+      numCams++;
+    }
+    return randomCamsArr;
+  };
+
+  const randomWebcams = !isLoading && generateRandomCams(data.result.webcams);
 
   return (
     <>
@@ -50,24 +61,26 @@ export function UseWebCams({
         <div>loading</div>
       ) : data.result.webcams.length > 0 ? (
         <>
-          <ul
-            role="list"
-            className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-4 xl:gap-x-8">
-            {data.result.webcams.map((cam) => (
-              <li key={cam.id} className="relative">
-                <div className="group block w-full aspect-w-10 aspect-h-7 rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-offset-gray-100 focus-within:ring-indigo-500 overflow-hidden">
-                  <img
-                    src={cam.image.current.preview}
-                    alt=""
-                    className="object-cover pointer-events-none group-hover:opacity-75"
-                  />
-                </div>
-                <p className="mt-2 block text-sm font-medium text-gray-900 truncate pointer-events-none">
-                  {cam.location.city}, {cam.location.country}
-                </p>
-              </li>
-            ))}
-          </ul>
+          <div className="mx-auto place-content-center">
+            <ul
+              role="list"
+              className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 xl:gap-x-8">
+              {randomWebcams.map((cam) => (
+                <li key={cam.id} className="relative">
+                  <div className="group block w-full  rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-offset-2 focus-within:ring-offset-gray-100 focus-within:ring-indigo-500 overflow-hidden">
+                    <img
+                      src={cam.image.current.preview}
+                      alt=""
+                      className="object-cover pointer-events-none group-hover:opacity-75"
+                    />
+                  </div>
+                  <p className="mt-2 block text-sm font-medium text-gray-900 truncate pointer-events-none">
+                    {cam.location.city}, {cam.location.country}
+                  </p>
+                </li>
+              ))}
+            </ul>
+          </div>
           <GuessTheCountry
             currentScore={currentScore}
             setCurrentScore={setCurrentScore}
@@ -107,28 +120,33 @@ export default function CamComponent() {
     return (
       <div className="flex flex-col justify-center items-center mt-4">
         <div className="p-4">
-          <h1>Guess the correct country!</h1>
+          <h1 className="font-sans text-4xl font-semibold">
+            Guess the correct country 🌎
+          </h1>
         </div>
         <div className="p-4">
-          <h1>{`Current Score: ${currentScore}`}</h1>
+          <span className="text-2xl font-sans font-semibold">
+            Current Score:
+          </span>
+          <span className="text-2xl font-sans font-semibold text-rose-600">
+            {' '}
+            {currentScore}
+          </span>
         </div>
       </div>
     );
   }
 
-  if (location)
-    console.log(location, 'countryCodes', countryCodes[location][COUNTRY_CODE]);
-
   return (
     <>
       {renderScore()}
-      <div className="flex flex-row justify-center items-center p-4">
+      <div className="flex flex-row justify-center items-center p-4 mb-2">
         <div>
           <button
             onClick={() => {
               setLocation(generateRandomCountry(COUNTRY_KEYS));
             }}
-            className="mt-1 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+            className="mt-1 inline-flex items-center px-6 py-2 border border-transparent text-lg font-normal rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
             Generate Random Location
           </button>
         </div>
