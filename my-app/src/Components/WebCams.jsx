@@ -5,6 +5,7 @@ import axios from 'axios';
 import countryCodes from '../iso-code.json.json';
 import { GuessTheCountry } from './ButtonGrid';
 import { WEBCAMKEY } from '../apiKey';
+import Spinner from './Spinner';
 
 export const COUNTRY_KEYS = Object.keys(countryCodes);
 const COUNTRY_CODE = 'Alpha-2 code';
@@ -22,7 +23,8 @@ async function fetchCamLocation(location) {
         },
       },
     )
-    .then((res) => res.data);
+    .then((res) => res.data)
+    .catch((err) => console.error(err));
 }
 
 export function UseWebCams({
@@ -32,7 +34,7 @@ export function UseWebCams({
   setCurrentScore,
   currentScore,
 }) {
-  const { isLoading, isError, data, error, isFetching } = useQuery(
+  const { isLoading, isError, data, error } = useQuery(
     ['location', location],
     () => fetchCamLocation(location),
     {
@@ -58,7 +60,7 @@ export function UseWebCams({
   return (
     <>
       {isLoading ? (
-        <div>loading</div>
+        <Spinner />
       ) : data.result.webcams.length > 0 ? (
         <>
           <div className="mx-auto place-content-center">
@@ -74,9 +76,6 @@ export function UseWebCams({
                       className="object-cover pointer-events-none group-hover:opacity-75"
                     />
                   </div>
-                  <p className="mt-2 block text-sm font-medium text-gray-900 truncate pointer-events-none">
-                    {cam.location.city}, {cam.location.country}
-                  </p>
                 </li>
               ))}
             </ul>
@@ -94,11 +93,7 @@ export function UseWebCams({
           <h1 className="text-2xl text-center">{`Nothing found for ${country} 😱`}</h1>
         </div>
       )}
-      {isFetching && (
-        <div className="flex flex-row justify-center align-middle items-center mt-2 mb-4">
-          <p>Updating...</p>
-        </div>
-      )}
+
       {isError && (
         <div className="flex flex-row justify-center align-middle items-center mt-2 mb-4">
           <p>{error}</p>
@@ -112,34 +107,32 @@ export function generateRandomCountry(countryKeys) {
   return countryKeys[Math.floor(Math.random() * 246)];
 }
 
+const CurrentScore = ({ currentScore }) => {
+  return (
+    <div className="flex flex-col justify-center items-center mt-4">
+      <div className="p-4">
+        <h1 className="font-sans text-4xl font-semibold">
+          Guess the correct country 🌎
+        </h1>
+      </div>
+      <div className="p-4">
+        <span className="text-2xl font-sans font-semibold">Current Score:</span>
+        <span className="text-2xl font-sans font-semibold text-rose-600">
+          {' '}
+          {currentScore}
+        </span>
+      </div>
+    </div>
+  );
+};
+
 export default function CamComponent() {
   const [location, setLocation] = useState(false);
   const [currentScore, setCurrentScore] = useState(0);
 
-  function renderScore() {
-    return (
-      <div className="flex flex-col justify-center items-center mt-4">
-        <div className="p-4">
-          <h1 className="font-sans text-4xl font-semibold">
-            Guess the correct country 🌎
-          </h1>
-        </div>
-        <div className="p-4">
-          <span className="text-2xl font-sans font-semibold">
-            Current Score:
-          </span>
-          <span className="text-2xl font-sans font-semibold text-rose-600">
-            {' '}
-            {currentScore}
-          </span>
-        </div>
-      </div>
-    );
-  }
-
   return (
     <>
-      {renderScore()}
+      <CurrentScore currentScore={currentScore} />
       <div className="flex flex-row justify-center items-center p-4 mb-2">
         <div>
           <button
