@@ -185,27 +185,6 @@ export default function TutorialReactQuery() {
   return (
     <>
       <CamComponent />
-
-      {/* {renderShowPostsButton()}
-      <InvalidateQueriesButton />
-      <GetRandomNum subKey="A" />
-      <GetRandomNum subKey="B" />
-      <GetRandomNum subKey="C" />
-      <DependentQuery />
-      {showPosts && <PostMates />}
-      <GetUsers /> */}
-      {/* <div className="p-6">
-        <input
-          value={pokemon}
-          placeholder="Search Pokemon..."
-          onChange={(e) => setPokemon(e.target.value)}
-          type="text"
-          className="p-4 shadow-xl focus:ring-indigo-500 focus:border-indigo-500 block w-full sm:text-sm border-gray-800  rounded-md h-12"
-        />
-      </div>
-      <PokemonSearch pokemon={pokemon} />
-      <Count />
-      <GetPokemon /> */}
     </>
   );
 }
